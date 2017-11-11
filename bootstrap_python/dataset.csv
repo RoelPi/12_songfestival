@@ -1,0 +1,924 @@
+year;type;order;country;artist;title;language;position;score;maxpoints;voters
+2017;finals;1;Israel;IMRI;"""I Feel Alive""";English;23;39;24;42
+2017;finals;2;Poland;Kasia Mo?;"""Flashlight""";English;22;64;24;42
+2017;finals;3;Belarus;Naviband;"""Story of My Life""";Belarusian;17;83;24;42
+2017;finals;4;Austria;Nathan Trent;"""Running on Air""";English;16;93;24;42
+2017;finals;5;Armenia;Artsvik;"""Fly with Me""";English;18;79;24;42
+2017;finals;6;Netherlands;O'G3NE;"""Lights and Shadows""";English;11;150;24;42
+2017;finals;7;Moldova;Sunstroke Project;"""Hey, Mamma!""";English;3;374;24;42
+2017;finals;8;Hungary;Joci Pápai;"""Origo""";Hungarian;8;200;24;42
+2017;finals;9;Italy;Francesco Gabbani;"""Occidentali's Karma""";Italian6;6;334;24;42
+2017;finals;10;Denmark;Anja;"""Where I Am""";English;20;77;24;42
+2017;finals;11;Portugal;Salvador Sobral;"""Amar Pelos Dois""";Portuguese;1;758;24;42
+2017;finals;12;Azerbaijan;Dihaj;"""Skeletons""";English;14;120;24;42
+2017;finals;13;Croatia;Jacques Houdek;"""My Friend""";English, Italian;13;128;24;42
+2017;finals;14;Australia;Isaiah;"""Don't Come Easy""";English;9;173;24;42
+2017;finals;15;Greece;Demy;"""This Is Love""";English;19;77;24;42
+2017;finals;16;Spain;Manel Navarro;"""Do It for Your Lover""";Spanish, English;26;5;24;42
+2017;finals;17;Norway;JOWST;"""Grab the Moment""5";English;10;158;24;42
+2017;finals;18;United Kingdom;Lucie Jones;"""Never Give Up on You""";English;15;111;24;42
+2017;finals;19;Cyprus;Hovig;"""Gravity""";English;21;68;24;42
+2017;finals;20;Romania;Ilinca ft. Alex Florea;"""Yodel It!""";English;7;282;24;42
+2017;finals;21;Germany;Levina;"""Perfect Life""";English;25;6;24;42
+2017;finals;22;Ukraine;O.Torvald;"""Time""";English;24;36;24;42
+2017;finals;23;Belgium;Blanche;"""City Lights""";English;4;363;24;42
+2017;finals;24;Sweden;Robin Bengtsson;"""I Can't Go On""";English;5;344;24;42
+2017;finals;25;Bulgaria;Kristian Kostov;"""Beautiful Mess""";English;2;615;24;42
+2017;finals;26;France;Alma;"""Requiem""";French, English;12;135;24;42
+2017;semifinals 1;1;Sweden;Robin Bengtsson;"""I Can't Go On""";English;3;227;24;21
+2017;semifinals 1;2;Georgia;Tamara Gachechiladze;"""Keep the Faith""";English;11;99;24;21
+2017;semifinals 1;3;Australia;Isaiah;"""Don't Come Easy""";English;6;160;24;21
+2017;semifinals 1;4;Albania;Lindita;"""World""";English;14;76;24;21
+2017;semifinals 1;5;Belgium;Blanche;"""City Lights""";English;4;165;24;21
+2017;semifinals 1;6;Montenegro;Slavko Kalezi?;"""Space""";English;16;56;24;21
+2017;semifinals 1;7;Finland;Norma John;"""Blackbird""";English;12;92;24;21
+2017;semifinals 1;8;Azerbaijan;Dihaj;"""Skeletons""";English;8;150;24;21
+2017;semifinals 1;9;Portugal;Salvador Sobral;"""Amar Pelos Dois""";Portuguese;1;370;24;21
+2017;semifinals 1;10;Greece;Demy;"""This Is Love""";English;10;115;24;21
+2017;semifinals 1;11;Poland;Kasia Mo?;"""Flashlight""";English;9;119;24;21
+2017;semifinals 1;12;Moldova;Sunstroke Project;"""Hey, Mamma!""";English;2;291;24;21
+2017;semifinals 1;13;Iceland;Svala;"""Paper""";English;15;60;24;21
+2017;semifinals 1;14;Czech Republic;Martina Bárta;"""My Turn""";English;13;83;24;21
+2017;semifinals 1;15;Cyprus;Hovig;"""Gravity""";English;5;164;24;21
+2017;semifinals 1;16;Armenia;Artsvik;"""Fly with Me""";English;7;152;24;21
+2017;semifinals 1;17;Slovenia;Omar Naber;"""On My Way""";English;17;36;24;21
+2017;semifinals 1;18;Latvia;Triana Park;"""Line""";English;18;21;24;21
+2017;semifinals 2;1;Serbia;Tijana Bogi?evi?;"""In Too Deep""";English;11;98;24;21
+2017;semifinals 2;2;Austria;Nathan Trent;"""Running on Air""";English;7;147;24;21
+2017;semifinals 2;3;Macedonia;Jana Bur?eska;"""Dance Alone""";English;15;69;24;21
+2017;semifinals 2;4;Malta;Claudia Faniello;"""Breathlessly""";English;16;55;24;21
+2017;semifinals 2;5;Romania;Ilinca ft. Alex Florea;"""Yodel It!""";English;6;174;24;21
+2017;semifinals 2;6;Netherlands;O'G3NE;"""Lights and Shadows""";English;4;200;24;21
+2017;semifinals 2;7;Hungary;Joci Pápai;"""Origo""";Hungarian;2;231;24;21
+2017;semifinals 2;8;Denmark;Anja;"""Where I Am""";English;10;101;24;21
+2017;semifinals 2;9;Ireland;Brendan Murray;"""Dying to Try""";English;13;86;24;21
+2017;semifinals 2;10;San Marino;Valentina Monetta and Jimmie Wilson;"""Spirit of the Night""";English;18;1;24;21
+2017;semifinals 2;11;Croatia;Jacques Houdek;"""My Friend""";English, Italian;8;141;24;21
+2017;semifinals 2;12;Norway;JOWST5;"""Grab the Moment""";English;5;189;24;21
+2017;semifinals 2;13;Switzerland;Timebelle;"""Apollo""";English;12;97;24;21
+2017;semifinals 2;14;Belarus;Naviband;"""Story of My Life""";Belarusian;9;110;24;21
+2017;semifinals 2;15;Bulgaria;Kristian Kostov;"""Beautiful Mess""";English;1;403;24;21
+2017;semifinals 2;16;Lithuania;Fusedmarc;"""Rain of Revolution""";English;17;42;24;21
+2017;semifinals 2;17;Estonia;Koit Toome and Laura;"""Verona""";English;14;85;24;21
+2017;semifinals 2;18;Israel;IMRI;"""I Feel Alive""";English;3;207;24;21
+2016;finals;1;Belgium;Laura Tesoro;"""What's the Pressure""";English;10;181;24;42
+2016;finals;2;Czech Republic;Gabriela Gun?íková;"""I Stand""";English;25;41;24;42
+2016;finals;3;Netherlands;Douwe Bob;"""Slow Down""";English;11;153;24;42
+2016;finals;4;Azerbaijan;Samra;"""Miracle""";English;17;117;24;42
+2016;finals;5;Hungary;Freddie;"""Pioneer""";English;19;108;24;42
+2016;finals;6;Italy;Francesca Michielin;"""No Degree of Separation""";Italian, English;16;124;24;42
+2016;finals;7;Israel;Hovi Star;"""Made of Stars""";English;14;135;24;42
+2016;finals;8;Bulgaria;Poli Genova;"""If Love Was a Crime""";English, Bulgarian;4;307;24;42
+2016;finals;9;Sweden;Frans;"""If I Were Sorry""";English;5;261;24;42
+2016;finals;10;Germany;Jamie-Lee;"""Ghost""";English;26;11;24;42
+2016;finals;11;France;Amir;"""J'ai cherché""";French, English;6;257;24;42
+2016;finals;12;Poland;Micha? Szpak;"""Color of Your Life""";English;8;229;24;42
+2016;finals;13;Australia;Dami Im;"""Sound of Silence""";English;2;511;24;42
+2016;finals;14;Cyprus;Minus One;"""Alter Ego""";English;21;96;24;42
+2016;finals;15;Serbia;Sanja Vu?i? ZAA;"""Goodbye (Shelter)""";English;18;115;24;42
+2016;finals;16;Lithuania;Donny Montell;"""I've Been Waiting for This Night""";English;9;200;24;42
+2016;finals;17;Croatia;Nina Kralji?;"""Lighthouse""";English;23;73;24;42
+2016;finals;18;Russia;Sergey Lazarev;"""You Are the Only One""";English;3;491;24;42
+2016;finals;19;Spain;Barei;"""Say Yay!""";English;22;77;24;42
+2016;finals;20;Latvia;Justs;"""Heartbeat""";English;15;132;24;42
+2016;finals;21;Ukraine;Jamala;"""1944""";English, Crimean Tatar;1;534;24;42
+2016;finals;22;Malta;Ira Losco;"""Walk on Water""";English;12;153;24;42
+2016;finals;23;Georgia;Nika Kocharov & Young Georgian Lolitaz;"""Midnight Gold""";English;20;104;24;42
+2016;finals;24;Austria;Zoë;"""Loin d'ici""";French;13;151;24;42
+2016;finals;25;United Kingdom;Joe and Jake;"""You're Not Alone""";English;24;62;24;42
+2016;finals;26;Armenia;Iveta Mukuchyan;"""LoveWave""";English;7;249;24;42
+2016;semifinals 2;1;Latvia;Justs;"""Heartbeat""";English;8;132;24;21
+2016;semifinals 2;2;Poland;Micha? Szpak;"""Color of Your Life""";English;6;151;24;21
+2016;semifinals 2;3;Switzerland;Rykka;"""The Last of Our Kind""";English;18;28;24;21
+2016;semifinals 2;4;Israel;Hovi Star;"""Made of Stars""";English;7;147;24;21
+2016;semifinals 2;5;Belarus;Ivan;"""Help You Fly""";English;12;84;24;21
+2016;semifinals 2;6;Serbia;Sanja Vu?i? ZAA;"""Goodbye (Shelter)""";English;10;105;24;21
+2016;semifinals 2;7;Ireland;Nicky Byrne;"""Sunlight""";English;15;46;24;21
+2016;semifinals 2;8;Macedonia;Kaliopi;"""Dona"" (????)";Macedonian;11;88;24;21
+2016;semifinals 2;9;Lithuania;Donny Montell;"""I've Been Waiting for This Night""";English;4;222;24;21
+2016;semifinals 2;10;Australia;Dami Im;"""Sound of Silence""";English;1;330;24;21
+2016;semifinals 2;11;Slovenia;ManuElla;"""Blue and Red""";English;14;57;24;21
+2016;semifinals 2;12;Bulgaria;Poli Genova;"""If Love Was a Crime""";English, Bulgarian;5;220;24;21
+2016;semifinals 2;13;Denmark;Lighthouse X;"""Soldiers of Love""";English;17;34;24;21
+2016;semifinals 2;14;Ukraine;Jamala;"""1944""";English, Crimean Tatar;2;287;24;21
+2016;semifinals 2;15;Norway;Agnete;"""Icebreaker""";English;13;63;24;21
+2016;semifinals 2;16;Georgia;Nika Kocharov & Young Georgian Lolitaz;"""Midnight Gold""";English;9;123;24;21
+2016;semifinals 2;17;Albania;Eneda Tarifa;"""Fairytale""";English;16;45;24;21
+2016;semifinals 2;18;Belgium;Laura Tesoro;"""What's the Pressure""";English;3;274;24;21
+2016;semifinals 1;1;Finland;Sandhja;"""Sing It Away""";English;15;51;24;21
+2016;semifinals 1;2;Greece;Argo;"""Utopian Land""";English, Greek;16;44;24;21
+2016;semifinals 1;3;Moldova;Lidia Isac;"""Falling Stars""";English;17;33;24;21
+2016;semifinals 1;4;Hungary;Freddie;"""Pioneer""";English;4;197;24;21
+2016;semifinals 1;5;Croatia;Nina Kralji?;"""Lighthouse""";English;10;133;24;21
+2016;semifinals 1;6;Netherlands;Douwe Bob;"""Slow Down""";English;5;197;24;21
+2016;semifinals 1;7;Armenia;Iveta Mukuchyan;"""LoveWave""";English;2;243;24;21
+2016;semifinals 1;8;San Marino;Serhat;"""I Didn't Know""";English;12;68;24;21
+2016;semifinals 1;9;Russia;Sergey Lazarev;"""You Are the Only One""";English;1;342;24;21
+2016;semifinals 1;10;Czech Republic;Gabriela Gun?íková;"""I Stand""";English;9;161;24;21
+2016;semifinals 1;11;Cyprus;Minus One;"""Alter Ego""";English;8;164;24;21
+2016;semifinals 1;12;Austria;Zoë;"""Loin d'ici""";French;7;170;24;21
+2016;semifinals 1;13;Estonia;Jüri Pootsmann;"""Play""";English;18;24;24;21
+2016;semifinals 1;14;Azerbaijan;Samra;"""Miracle""";English;6;185;24;21
+2016;semifinals 1;15;Montenegro;Highway;"""The Real Thing""";English;13;60;24;21
+2016;semifinals 1;16;Iceland;Greta Salóme;"""Hear Them Calling""";English;14;51;24;21
+2016;semifinals 1;17;Bosnia and Herzegovina;Dalal & Deen feat. Ana Rucner and Jala;"""Ljubav je""";Bosnian;11;104;24;21
+2016;semifinals 1;18;Malta;Ira Losco;"""Walk on Water""";English;3;209;24;21
+2015;semifinals 1;1;Moldova;Eduard Romanyuta;"""I Want Your Love""";English;11;41;12;20
+2015;semifinals 1;2;Armenia;Genealogy;"""Face the Shadow""";English;7;77;12;20
+2015;semifinals 1;3;Belgium;Loïc Nottet;"""Rhythm Inside""";English;2;149;12;20
+2015;semifinals 1;4;Netherlands;Trijntje Oosterhuis;"""Walk Along""";English;14;33;12;20
+2015;semifinals 1;5;Finland;Pertti Kurikan Nimipäivät;"""Aina mun pitää""";Finnish;16;13;12;20
+2015;semifinals 1;6;Greece;Maria Elena Kyriakou;"""One Last Breath""";English;6;81;12;20
+2015;semifinals 1;7;Estonia;Elina Born & Stig Rästa;"""Goodbye to Yesterday""";English;3;105;12;20
+2015;semifinals 1;8;Macedonia;Daniel Kajmakoski;"""Autumn Leaves""";English;15;28;12;20
+2015;semifinals 1;9;Serbia;Bojana Stamenov;"""Beauty Never Lies""";English;9;63;12;20
+2015;semifinals 1;10;Hungary;Boggie;"""Wars for Nothing""";English;8;67;12;20
+2015;semifinals 1;11;Belarus;Uzari & Maimuna;"""Time""";English;12;39;12;20
+2015;semifinals 1;12;Russia;Polina Gagarina;"""A Million Voices""";English;1;182;12;20
+2015;semifinals 1;13;Denmark;Anti Social Media;"""The Way You Are""";English;13;33;12;20
+2015;semifinals 1;14;Albania;Elhaida Dani;"""I'm Alive""";English;10;62;12;20
+2015;semifinals 1;15;Romania;Voltaj;"""De la cap?t""";Romanian, English;5;89;12;20
+2015;semifinals 1;16;Georgia;Nina Sublatti;"""Warrior""";English;4;98;12;20
+2015;semifinals 2;1;Lithuania;Monika Linkyt? & Vaidas Baumila;"""This Time""";English;7;67;12;20
+2015;semifinals 2;2;Ireland;Molly Sterling;"""Playing with Numbers""";English;12;35;12;20
+2015;semifinals 2;3;San Marino;Anita Simoncini & Michele Perniola;"""Chain of Lights""";English;16;11;12;20
+2015;semifinals 2;4;Montenegro;Knez;"""Adio""";Montenegrin;9;57;12;20
+2015;semifinals 2;5;Malta;Amber;"""Warrior""";English;11;43;12;20
+2015;semifinals 2;6;Norway;Mørland & Debrah Scarlett;"""A Monster Like Me""";English;4;123;12;20
+2015;semifinals 2;7;Portugal;Leonor Andrade;"""Há um mar que nos separa""";Portuguese;14;19;12;20
+2015;semifinals 2;8;Czech Republic;Marta Jandová & Václav Noid Bárta;"""Hope Never Dies""";English;13;33;12;20
+2015;semifinals 2;9;Israel;Nadav Guedj;"""Golden Boy""";English;3;151;12;20
+2015;semifinals 2;10;Latvia;Aminata;"""Love Injected""";English;2;155;12;20
+2015;semifinals 2;11;Azerbaijan;Elnur Huseynov;"""Hour of the Wolf""";English;10;53;12;20
+2015;semifinals 2;12;Iceland;Maria Olafs;"""Unbroken""";English;15;14;12;20
+2015;semifinals 2;13;Sweden;Måns Zelmerlöw;"""Heroes""";English;1;217;12;20
+2015;semifinals 2;14;Switzerland;Mélanie René;"""Time to Shine""";English;17;4;12;20
+2015;semifinals 2;15;Cyprus;John Karayiannis;"""One Thing I Should Have Done""";English;6;87;12;20
+2015;semifinals 2;16;Slovenia;Maraaya;"""Here for You""";English;5;92;12;20
+2015;semifinals 2;17;Poland;Monika Kuszy?ska;"""In the Name of Love""";English;8;57;12;20
+2015;finals;1;Slovenia;Maraaya;"""Here for You""";English;14;39;12;40
+2015;finals;2;France;Lisa Angell;"""N'oubliez pas""";French;25;4;12;40
+2015;finals;3;Israel;Nadav Guedj;"""Golden Boy""";English;9;97;12;40
+2015;finals;4;Estonia;Elina Born & Stig Rästa;"""Goodbye to Yesterday""";English;7;106;12;40
+2015;finals;5;United Kingdom;Electro Velvet;"""Still in Love with You""";English;24;5;12;40
+2015;finals;6;Armenia;Genealogy;"""Face the Shadow""";English;16;34;12;40
+2015;finals;7;Lithuania;Monika Linkyt? & Vaidas Baumila;"""This Time""";English;18;30;12;40
+2015;finals;8;Serbia;Bojana Stamenov;"""Beauty Never Lies""";English;10;53;12;40
+2015;finals;9;Norway;Mørland & Debrah Scarlett;"""A Monster Like Me""";English;8;102;12;40
+2015;finals;10;Sweden;Måns Zelmerlöw;"""Heroes""";English;1;365;12;40
+2015;finals;11;Cyprus;John Karayiannis;"""One Thing I Should Have Done""";English;22;11;12;40
+2015;finals;12;Australia;Guy Sebastian;"""Tonight Again""";English;5;196;12;40
+2015;finals;13;Belgium;Loïc Nottet;"""Rhythm Inside""";English;4;217;12;40
+2015;finals;14;Austria;The Makemakes;"""I Am Yours""";English;26;0;12;40
+2015;finals;15;Greece;Maria Elena Kyriakou;"""One Last Breath""";English;19;23;12;40
+2015;finals;16;Montenegro;Knez;"""Adio""";Montenegrin;13;44;12;40
+2015;finals;17;Germany;Ann Sophie;"""Black Smoke""";English;27;0;12;40
+2015;finals;18;Poland;Monika Kuszy?ska;"""In the Name of Love""";English;23;10;12;40
+2015;finals;19;Latvia;Aminata;"""Love Injected""";English;6;186;12;40
+2015;finals;20;Romania;Voltaj;"""De la capat""";Romanian, English;15;35;12;40
+2015;finals;21;Spain;Edurne;"""Amanecer""";Spanish;21;15;12;40
+2015;finals;22;Hungary;Boggie;"""Wars for Nothing""";English;20;19;12;40
+2015;finals;23;Georgia;Nina Sublatti;"""Warrior""";English;11;51;12;40
+2015;finals;24;Azerbaijan;Elnur Huseynov;"""Hour of the Wolf""";English;12;49;12;40
+2015;finals;25;Russia;Polina Gagarina;"""A Million Voices""";English;2;303;12;40
+2015;finals;26;Albania;Elhaida Dani;"""I'm Alive""";English;17;34;12;40
+2015;finals;27;Italy;Il Volo;"""Grande amore""";Italian;3;292;12;40
+2014;semifinals 1;1;Armenia;Aram MP3;"""Not Alone""";English;4;121;12;19
+2014;semifinals 1;2;Latvia;Aarzemnieki;"""Cake to Bake""";English;13;33;12;19
+2014;semifinals 1;3;Estonia;Tanja;"""Amazing""";English;12;36;12;19
+2014;semifinals 1;4;Sweden;Sanna Nielsen;"""Undo""";English;2;131;12;19
+2014;semifinals 1;5;Iceland;Pollapönk;"""No Prejudice""";English;8;61;12;19
+2014;semifinals 1;6;Albania;Hersi;"""One Night's Anger""";English;15;22;12;19
+2014;semifinals 1;7;Russia;Tolmachevy Sisters;"""Shine""";English;6;63;12;19
+2014;semifinals 1;8;Azerbaijan;Dilara Kazimova;"""Start a Fire""";English;9;57;12;19
+2014;semifinals 1;9;Ukraine;Mariya Yaremchuk;"""Tick-Tock""";English;5;118;12;19
+2014;semifinals 1;10;Belgium;Axel Hirsoux;"""Mother""";English;14;28;12;19
+2014;semifinals 1;11;Moldova;Cristina Scarlat;"""Wild Soul""";English;16;13;12;19
+2014;semifinals 1;12;San Marino;Valentina Monetta;"""Maybe""";English;10;40;12;19
+2014;semifinals 1;13;Portugal;Suzy;"""Quero ser tua""";Portuguese;11;39;12;19
+2014;semifinals 1;14;Netherlands;The Common Linnets;"""Calm After the Storm""";English;1;150;12;19
+2014;semifinals 1;15;Montenegro;Sergej ?etkovi?;"""Moj svijet"" (??? ??????)";Montenegrin;7;63;12;19
+2014;semifinals 1;16;Hungary;András Kállay-Saunders;"""Running""";English;3;127;12;19
+2014;semifinals 2;1;Malta;Firelight;"""Coming Home""";English;9;63;12;19
+2014;semifinals 2;2;Israel;Mei Finegold;"""Same Heart""";English, Hebrew;14;19;12;19
+2014;semifinals 2;3;Norway;Carl Espen;"""Silent Storm""";English;6;77;12;19
+2014;semifinals 2;4;Georgia;The Shin and Mariko;"""Three Minutes to Earth""";English;15;15;12;19
+2014;semifinals 2;5;Poland;Donatan & Cleo;"""My S?owianie - We Are Slavic""";Polish, English;8;70;12;19
+2014;semifinals 2;6;Austria;Conchita Wurst;"""Rise Like a Phoenix""";English;1;169;12;19
+2014;semifinals 2;7;Lithuania;Vilija;"""Attention""";English;11;36;12;19
+2014;semifinals 2;8;Finland;Softengine;"""Something Better""";English;3;97;12;19
+2014;semifinals 2;9;Ireland;Can-Linn feat. Kasey Smith;"""Heartbeat""";English;12;35;12;19
+2014;semifinals 2;10;Belarus;Teo;"""Cheesecake""";English;5;87;12;19
+2014;semifinals 2;11;Macedonia;Tijana;"""To the Sky""";English;13;33;12;19
+2014;semifinals 2;12;Switzerland;Sebalter;"""Hunter of Stars""";English;4;92;12;19
+2014;semifinals 2;13;Greece;Freaky Fortune feat. RiskyKidd;"""Rise Up""";English;7;74;12;19
+2014;semifinals 2;14;Slovenia;Tinkara Kova?;"""Round and Round""";English, Slovene;10;52;12;19
+2014;semifinals 2;15;Romania;Paula Seling & Ovi;"""Miracle""";English;2;125;12;19
+2014;finals;1;Ukraine;Mariya Yaremchuk;"""Tick-Tock""";English;6;113;12;37
+2014;finals;2;Belarus;Teo;"""Cheesecake""";English;16;43;12;37
+2014;finals;3;Azerbaijan;Dilara Kazimova;"""Start a Fire""";English;22;33;12;37
+2014;finals;4;Iceland;Pollapönk;"""No Prejudice""";English;15;58;12;37
+2014;finals;5;Norway;Carl Espen;"""Silent Storm""";English;8;88;12;37
+2014;finals;6;Romania;Paula Seling & Ovi;"""Miracle""";English;12;72;12;37
+2014;finals;7;Armenia;Aram MP3;"""Not Alone""";English;4;174;12;37
+2014;finals;8;Montenegro;Sergej ?etkovi?;"""Moj svijet"" (??? ??????)";Montenegrin;19;37;12;37
+2014;finals;9;Poland;Donatan & Cleo;"""My S?owianie – We Are Slavic""";Polish, English;14;62;12;37
+2014;finals;10;Greece;Freaky Fortune feat. RiskyKidd;"""Rise Up""";English;20;35;12;37
+2014;finals;11;Austria;Conchita Wurst;"""Rise Like a Phoenix""";English;1;290;12;37
+2014;finals;12;Germany;Elaiza;"""Is It Right""";English;18;39;12;37
+2014;finals;13;Sweden;Sanna Nielsen;"""Undo""";English;3;218;12;37
+2014;finals;14;France;TWIN TWIN;"""Moustache""";French;26;2;12;37
+2014;finals;15;Russia;Tolmachevy Sisters;"""Shine""";English;7;89;12;37
+2014;finals;16;Italy;Emma;"""La mia città""";Italian;21;33;12;37
+2014;finals;17;Slovenia;Tinkara Kova?;"""Round and Round""";English, Slovene;25;9;12;37
+2014;finals;18;Finland;Softengine;"""Something Better""";English;11;72;12;37
+2014;finals;19;Spain;Ruth Lorenzo;"""Dancing in the Rain""";English, Spanish;10;74;12;37
+2014;finals;20;Switzerland;Sebalter;"""Hunter of Stars""";English;13;64;12;37
+2014;finals;21;Hungary;András Kállay-Saunders;"""Running""";English;5;143;12;37
+2014;finals;22;Malta;Firelight;"""Coming Home""";English;23;32;12;37
+2014;finals;23;Denmark;Basim;"""Cliché Love Song""";English;9;74;12;37
+2014;finals;24;Netherlands;The Common Linnets;"""Calm After the Storm""";English;2;238;12;37
+2014;finals;25;San Marino;Valentina Monetta;"""Maybe""";English;24;14;12;37
+2014;finals;26;United Kingdom;Molly;"""Children of the Universe""";English;17;40;12;37
+2013;semifinals 1;1;Austria;Natália Kelly;"""Shine""";English;14;27;12;19
+2013;semifinals 1;2;Estonia;Birgit;"""Et uus saaks alguse""";Estonian;10;52;12;19
+2013;semifinals 1;3;Slovenia;Hannah;"""Straight Into Love""";English;16;8;12;19
+2013;semifinals 1;4;Croatia;Klapa s Mora;"""Mižerja""";Croatian;13;38;12;19
+2013;semifinals 1;5;Denmark;Emmelie de Forest;"""Only Teardrops""";English;1;167;12;19
+2013;semifinals 1;6;Russia;Dina Garipova;"""What If""";English;2;156;12;19
+2013;semifinals 1;7;Ukraine;Zlata Ognevich;"""Gravity""";English;3;140;12;19
+2013;semifinals 1;8;Netherlands;Anouk;"""Birds""";English;6;75;12;19
+2013;semifinals 1;9;Montenegro;Who See;"""Igranka"" (???????)";Montenegrin;12;41;12;19
+2013;semifinals 1;10;Lithuania;Andrius Pojavis;"""Something""";English;9;53;12;19
+2013;semifinals 1;11;Belarus;Alyona Lanskaya;"""Solayoh""";English;7;64;12;19
+2013;semifinals 1;12;Moldova;Aliona Moon;"""O mie""";Romanian;4;95;12;19
+2013;semifinals 1;13;Ireland;Ryan Dolan;"""Only Love Survives""";English;8;54;12;19
+2013;semifinals 1;14;Cyprus;Despina Olympiou;"""An me thimasai"" (A? ?? ???????)";Greek;15;11;12;19
+2013;semifinals 1;15;Belgium;Roberto Bellarosa;"""Love Kills""";English;5;75;12;19
+2013;semifinals 1;16;Serbia;Moje 3;"""Ljubav je svuda"" (????? ?? ?????)";Serbian;11;46;12;19
+2013;semifinals 2;1;Latvia;PeR;"""Here We Go""";English;17;13;12;19
+2013;semifinals 2;2;San Marino;Valentina Monetta;"""Crisalide (Vola)""";Italian;11;47;12;19
+2013;semifinals 2;3;Macedonia;Esma & Lozano;"""Pred da se razdeni"" (???? ?? ?? ???????)";Macedonian, Romani;16;28;12;19
+2013;semifinals 2;4;Azerbaijan;Farid Mammadov;"""Hold Me""";English;1;139;12;19
+2013;semifinals 2;5;Finland;Krista Siegfrids;"""Marry Me""";English;9;64;12;19
+2013;semifinals 2;6;Malta;Gianluca;"""Tomorrow""";English;4;118;12;19
+2013;semifinals 2;7;Bulgaria;Elitsa Todorova & Stoyan Yankoulov;"""Samo shampioni"" (???? ????????)";Bulgarian;12;45;12;19
+2013;semifinals 2;8;Iceland;Eythor Ingi;"""Ég á líf""";Icelandic;6;72;12;19
+2013;semifinals 2;9;Greece;Koza Mostra feat. Agathon Iakovidis;"""Alcohol Is Free""";Greek;2;121;12;19
+2013;semifinals 2;10;Israel;Moran Mazor;"""Rak Bishvilo"" (?? ??????)";Hebrew;14;40;12;19
+2013;semifinals 2;11;Armenia;Dorians;"""Lonely Planet""";English;7;69;12;19
+2013;semifinals 2;12;Hungary;ByeAlex;"""Kedvesem"" (Zoohacker Remix)";Hungarian;8;66;12;19
+2013;semifinals 2;13;Norway;Margaret Berger;"""I Feed You My Love""";English;3;120;12;19
+2013;semifinals 2;14;Albania;Adrian Lulgjuraj & Bledar Sejko;"""Identitet""";Albanian;15;31;12;19
+2013;semifinals 2;15;Georgia;Nodi Tatishvili & Sophie Gelovani;"""Waterfall""";English;10;63;12;19
+2013;semifinals 2;16;Switzerland;Takasa;"""You and Me""";English;13;41;12;19
+2013;semifinals 2;17;Romania;Cezar;"""It's My Life""";English;5;83;12;19
+2013;finals;1;France;Amandine Bourgeois;"""L'enfer et moi""";French;23;14;12;39
+2013;finals;2;Lithuania;Andrius Pojavis;"""Something""";English;22;17;12;39
+2013;finals;3;Moldova;Aliona Moon;"""O mie""";Romanian;11;71;12;39
+2013;finals;4;Finland;Krista Siegfrids;"""Marry Me""";English;24;13;12;39
+2013;finals;5;Spain;ESDM;"""Contigo hasta el final""";Spanish;25;8;12;39
+2013;finals;6;Belgium;Roberto Bellarosa;"""Love Kills""";English;12;71;12;39
+2013;finals;7;Estonia;Birgit;"""Et uus saaks alguse""";Estonian;20;19;12;39
+2013;finals;8;Belarus;Alyona Lanskaya;"""Solayoh""";English;16;48;12;39
+2013;finals;9;Malta;Gianluca;"""Tomorrow""";English;8;120;12;39
+2013;finals;10;Russia;Dina Garipova;"""What If""";English;5;174;12;39
+2013;finals;11;Germany;Cascada;"""Glorious""";English;21;18;12;39
+2013;finals;12;Armenia;Dorians;"""Lonely Planet""";English;18;41;12;39
+2013;finals;13;Netherlands;Anouk;"""Birds""";English;9;114;12;39
+2013;finals;14;Romania;Cezar;"""It's My Life""";English;13;65;12;39
+2013;finals;15;United Kingdom;Bonnie Tyler;"""Believe in Me""";English;19;23;12;39
+2013;finals;16;Sweden;Robin Stjernberg;"""You""";English;14;62;12;39
+2013;finals;17;Hungary;ByeAlex;"""Kedvesem"" (Zoohacker Remix)";Hungarian;10;84;12;39
+2013;finals;18;Denmark;Emmelie de Forest;"""Only Teardrops""";English;1;281;12;39
+2013;finals;19;Iceland;Eythor Ingi;"""Ég á líf""";Icelandic;17;47;12;39
+2013;finals;20;Azerbaijan;Farid Mammadov;"""Hold Me""";English;2;234;12;39
+2013;finals;21;Greece;Koza Mostra feat. Agathon Iakovidis;"""Alcohol Is Free""";Greek;6;152;12;39
+2013;finals;22;Ukraine;Zlata Ognevich;"""Gravity""";English;3;214;12;39
+2013;finals;23;Italy;Marco Mengoni;"""L'essenziale""";Italian;7;126;12;39
+2013;finals;24;Norway;Margaret Berger;"""I Feed You My Love""";English;4;191;12;39
+2013;finals;25;Georgia;Nodi Tatishvili and Sophie Gelovani;"""Waterfall""";English;15;50;12;39
+2013;finals;26;Ireland;Ryan Dolan;"""Only Love Survives""";English;26;5;12;39
+2012;semifinals 1;1;Montenegro;Rambo Amadeus;"""Euro Neuro""";English;15;20;12;21
+2012;semifinals 1;2;Iceland;Greta Salóme and Jónsi;"""Never Forget""";English;8;75;12;21
+2012;semifinals 1;3;Greece;Eleftheria Eleftheriou;"""Aphrodisiac""";English;4;116;12;21
+2012;semifinals 1;4;Latvia;Anmary;"""Beautiful Song""";English;16;17;12;21
+2012;semifinals 1;5;Albania;Rona Nishliu;"""Suus""3";Albanian;2;146;12;21
+2012;semifinals 1;6;Romania;Mandinga;"""Zaleilah""";Spanish, English;3;120;12;21
+2012;semifinals 1;7;Switzerland;Sinplus;"""Unbreakable""";English;11;45;12;21
+2012;semifinals 1;8;Belgium;Iris;"""Would You?""";English;17;16;12;21
+2012;semifinals 1;9;Finland;Pernilla Karlsson;"""När jag blundar""";Swedish;12;41;12;21
+2012;semifinals 1;10;Israel;Izabo;"""Time""";English, Hebrew;13;33;12;21
+2012;semifinals 1;11;San Marino;Valentina Monetta;"""The Social Network Song (Oh Oh – Uh - Oh Oh)""";English;14;31;12;21
+2012;semifinals 1;12;Cyprus;Ivi Adamou;"""La La Love""";English;7;91;12;21
+2012;semifinals 1;13;Denmark;Soluna Samay;"""Should've Known Better""";English;9;63;12;21
+2012;semifinals 1;14;Russia;Buranovskiye Babushki;"""Party for Everybody""";Udmurt, English;1;152;12;21
+2012;semifinals 1;15;Hungary;Compact Disco;"""Sound of Our Hearts""";English;10;52;12;21
+2012;semifinals 1;16;Austria;Trackshittaz;"""Woki mit deim Popo""";German;18;8;12;21
+2012;semifinals 1;17;Moldova;Pasha Parfeny;"""L?utar""";English;5;100;12;21
+2012;semifinals 1;18;Ireland;Jedward;"""Waterline""";English;6;92;12;21
+2012;semifinals 2;1;Serbia;Željko Joksimovi?;"""Nije ljubav stvar"" (???? ????? ?????)";Serbian;2;159;12;21
+2012;semifinals 2;2;Macedonia;Kaliopi;"""Crno i belo"" (???? ? ????)";Macedonian;9;53;12;21
+2012;semifinals 2;3;Netherlands;Joan Franka;"""You and Me""";English;15;35;12;21
+2012;semifinals 2;4;Malta;Kurt Calleja;"""This Is the Night""";English;7;70;12;21
+2012;semifinals 2;5;Belarus;Litesound;"""We Are the Heroes""";English;16;35;12;21
+2012;semifinals 2;6;Portugal;Filipa Sousa;"""Vida minha""";Portuguese;13;39;12;21
+2012;semifinals 2;7;Ukraine;Gaitana;"""Be My Guest""";English;8;64;12;21
+2012;semifinals 2;8;Bulgaria;Sofi Marinova;"""Love Unlimited""";Bulgarian;11;45;12;21
+2012;semifinals 2;9;Slovenia;Eva Boto;"""Verjamem""";Slovene;17;31;12;21
+2012;semifinals 2;10;Croatia;Nina Badri?;"""Nebo""";Croatian;12;42;12;21
+2012;semifinals 2;11;Sweden;Loreen;"""Euphoria""";English;1;181;12;21
+2012;semifinals 2;12;Georgia;Anri Jokhadze;"""I'm a Joker""";English, Georgian;14;36;12;21
+2012;semifinals 2;13;Turkey;Can Bonomo;"""Love Me Back""";English;5;80;12;21
+2012;semifinals 2;14;Estonia;Ott Lepland;"""Kuula""";Estonian;4;100;12;21
+2012;semifinals 2;15;Slovakia;²;"""Don't Close Your Eyes""";English;18;22;12;21
+2012;semifinals 2;16;Norway;Tooji;"""Stay""";English;10;45;12;21
+2012;semifinals 2;17;Bosnia and Herzegovina;Maya Sar;"""Korake ti znam""";Bosnian;6;77;12;21
+2012;semifinals 2;18;Lithuania;Donny Montell;"""Love Is Blind""";English;3;104;12;21
+2012;finals;1;United Kingdom;Engelbert Humperdinck;"""Love Will Set You Free""";English;25;12;12;42
+2012;finals;2;Hungary;Compact Disco;"""Sound of Our Hearts""";English;24;19;12;42
+2012;finals;3;Albania;Rona Nishliu;"""Suus""3";Albanian;5;146;12;42
+2012;finals;4;Lithuania;Donny Montell;"""Love Is Blind""";English;14;70;12;42
+2012;finals;5;Bosnia and Herzegovina;Maya Sar;"""Korake ti znam""";Bosnian;18;55;12;42
+2012;finals;6;Russia;Buranovskiye Babushki;"""Party for Everybody""";Udmurt, English;2;259;12;42
+2012;finals;7;Iceland;Greta Salóme and Jónsi;"""Never Forget""";English;20;46;12;42
+2012;finals;8;Cyprus;Ivi Adamou;"""La La Love""";English;16;65;12;42
+2012;finals;9;France;Anggun;"""Echo (You and I)""";French, English;22;21;12;42
+2012;finals;10;Italy;Nina Zilli;"""L'amore è femmina (Out of Love)""";English, Italian;9;101;12;42
+2012;finals;11;Estonia;Ott Lepland;"""Kuula""";Estonian;6;120;12;42
+2012;finals;12;Norway;Tooji;"""Stay""";English;26;7;12;42
+2012;finals;13;Azerbaijan;Sabina Babayeva;"""When the Music Dies""";English;4;150;12;42
+2012;finals;14;Romania;Mandinga;"""Zaleilah""";Spanish, English;12;71;12;42
+2012;finals;15;Denmark;Soluna Samay;"""Should've Known Better""";English;23;21;12;42
+2012;finals;16;Greece;Eleftheria Eleftheriou;"""Aphrodisiac""";English;17;64;12;42
+2012;finals;17;Sweden;Loreen;"""Euphoria""";English;1;372;12;42
+2012;finals;18;Turkey;Can Bonomo;"""Love Me Back""";English;7;112;12;42
+2012;finals;19;Spain;Pastora Soler;"""Quédate conmigo""";Spanish;10;97;12;42
+2012;finals;20;Germany;Roman Lob;"""Standing Still""";English;8;110;12;42
+2012;finals;21;Malta;Kurt Calleja;"""This Is the Night""";English;21;41;12;42
+2012;finals;22;Macedonia;Kaliopi;"""Crno i belo"" (???? ? ????)";Macedonian;13;71;12;42
+2012;finals;23;Ireland;Jedward;"""Waterline""";English;19;46;12;42
+2012;finals;24;Serbia;Željko Joksimovi?;"""Nije ljubav stvar"" (???? ????? ?????)";Serbian;3;214;12;42
+2012;finals;25;Ukraine;Gaitana;"""Be My Guest""";English;15;65;12;42
+2012;finals;26;Moldova;Pasha Parfeny;"""L?utar""";English;11;81;12;42
+2011;semifinals 1;1;Poland;Magdalena Tul;"""Jestem""";Polish;19;18;12;21
+2011;semifinals 1;2;Norway;Stella Mwangi;"""Haba Haba""";English, Swahili;17;30;12;21
+2011;semifinals 1;3;Albania;Aurela Gaçe;"""Feel the Passion""";English, Albanian;14;47;12;21
+2011;semifinals 1;4;Armenia;Emmy;"""Boom Boom""";English;12;54;12;21
+2011;semifinals 1;5;Turkey;Yüksek Sadakat;"""Live It Up""";English;13;47;12;21
+2011;semifinals 1;6;Serbia;Nina;"""?aroban"" (???????)";Serbian;8;67;12;21
+2011;semifinals 1;7;Russia;Alexey Vorobyov;"""Get You""";English, Russian;9;64;12;21
+2011;semifinals 1;8;Switzerland;Anna Rossinelli;"""In Love for a While""";English;10;55;12;21
+2011;semifinals 1;9;Georgia;Eldrine;"""One More Day""";English;6;74;12;21
+2011;semifinals 1;10;Finland;Paradise Oskar;"""Da Da Dam""";English;3;103;12;21
+2011;semifinals 1;11;Malta;Glen Vella;"""One Life""";English;11;54;12;21
+2011;semifinals 1;12;San Marino;Senit;"""Stand By""";English;16;34;12;21
+2011;semifinals 1;13;Croatia;Daria;"""Celebrate""";English;15;41;12;21
+2011;semifinals 1;14;Iceland;Sjonni's Friends;"""Coming Home""";English;4;100;12;21
+2011;semifinals 1;15;Hungary;Kati Wolf;"""What About My Dreams?""";English, Hungarian;7;72;12;21
+2011;semifinals 1;16;Portugal;Homens da Luta;"""A luta é alegria""";Portuguese;18;22;12;21
+2011;semifinals 1;17;Lithuania;Evelina Sašenko;"""C'est ma vie""";English;5;81;12;21
+2011;semifinals 1;18;Azerbaijan;Ell & Nikki;"""Running Scared""";English;2;122;12;21
+2011;semifinals 1;19;Greece;Loukas Giorkas feat. Stereo Mike;"""Watch My Dance""";English, Greek;1;133;12;21
+2011;semifinals 2;1;Bosnia and Herzegovina;Dino Merlin;"""Love in Rewind""";English, Bosnian;5;109;12;22
+2011;semifinals 2;2;Austria;Nadine Beiler;"""The Secret Is Love""";English;7;69;12;22
+2011;semifinals 2;3;Netherlands;3JS;"""Never Alone""";English;19;13;12;22
+2011;semifinals 2;4;Belgium;Witloof Bay;"""With Love Baby""";English;11;53;12;22
+2011;semifinals 2;5;Slovakia;TWiiNS;"""I'm Still Alive""";English;13;48;12;22
+2011;semifinals 2;6;Ukraine;Mika Newton;"""Angel""";English;6;81;12;22
+2011;semifinals 2;7;Moldova;Zdob ?i Zdub;"""So Lucky""";English;10;54;12;22
+2011;semifinals 2;8;Sweden;Eric Saade;"""Popular""";English;1;155;12;22
+2011;semifinals 2;9;Cyprus;Christos Mylordos;"""San aggelos s'agapisa"" (??? ??????? ?'???????)";Greek;18;16;12;22
+2011;semifinals 2;10;Bulgaria;Poli Genova;"""Na inat"" (?? ????)";Bulgarian;12;48;12;22
+2011;semifinals 2;11;Macedonia;Vlatko Ilievski;"""Rusinka"" (??????a)";Macedonian, English;16;36;12;22
+2011;semifinals 2;12;Israel;Dana International;"""Ding Dong""";Hebrew, English;15;38;12;22
+2011;semifinals 2;13;Slovenia;Maja Keuc;"""No One""";English;3;112;12;22
+2011;semifinals 2;14;Romania;Hotel FM;"""Change""";English;4;111;12;22
+2011;semifinals 2;15;Estonia;Getter Jaani;"""Rockefeller Street""";English;9;60;12;22
+2011;semifinals 2;16;Belarus;Anastasia Vinnikova;"""I Love Belarus""";English;14;45;12;22
+2011;semifinals 2;17;Latvia;Musiqq;"""Angel in Disguise""";English;17;25;12;22
+2011;semifinals 2;18;Denmark;A Friend in London;"""New Tomorrow""";English;2;135;12;22
+2011;semifinals 2;19;Ireland;Jedward;"""Lipstick""";English;8;68;12;22
+2011;finals;1;Finland;Paradise Oskar;"""Da Da Dam""";English;21;57;12;43
+2011;finals;2;Bosnia and Herzegovina;Dino Merlin;"""Love in Rewind""";English, Bosnian;6;125;12;43
+2011;finals;3;Denmark;A Friend in London;"""New Tomorrow""";English;5;134;12;43
+2011;finals;4;Lithuania;Evelina Sašenko;"""C'est ma vie""";English;19;63;12;43
+2011;finals;5;Hungary;Kati Wolf;"""What About My Dreams?""";English, Hungarian;22;53;12;43
+2011;finals;6;Ireland;Jedward;"""Lipstick""";English;8;119;12;43
+2011;finals;7;Sweden;Eric Saade;"""Popular""";English;3;185;12;43
+2011;finals;8;Estonia;Getter Jaani;"""Rockefeller Street""";English;24;44;12;43
+2011;finals;9;Greece;Loukas Giorkas feat. Stereo Mike;"""Watch My Dance""";English, Greek;7;120;12;43
+2011;finals;10;Russia;Alexey Vorobyov;"""Get You""";English, Russian;16;77;12;43
+2011;finals;11;France;Amaury Vassili;"""Sognu""";Corsican;15;82;12;43
+2011;finals;12;Italy;Raphael Gualazzi;"""Madness of Love""";Italian, English;2;189;12;43
+2011;finals;13;Switzerland;Anna Rossinelli;"""In Love for a While""";English;25;19;12;43
+2011;finals;14;United Kingdom;Blue;"""I Can""";English;11;100;12;43
+2011;finals;15;Moldova;Zdob ?i Zdub;"""So Lucky""";English;12;97;12;43
+2011;finals;16;Germany;Lena;"""Taken by a Stranger""";English;10;107;12;43
+2011;finals;17;Romania;Hotel FM;"""Change""";English;17;77;12;43
+2011;finals;18;Austria;Nadine Beiler;"""The Secret Is Love""";English;18;64;12;43
+2011;finals;19;Azerbaijan;Ell & Nikki;"""Running Scared""";English;1;221;12;43
+2011;finals;20;Slovenia;Maja Keuc;"""No One""";English;13;96;12;43
+2011;finals;21;Iceland;Sjonni's Friends;"""Coming Home""";English;20;61;12;43
+2011;finals;22;Spain;Lucía Pérez;"""Que me quiten lo bailao""";Spanish;23;50;12;43
+2011;finals;23;Ukraine;Mika Newton;"""Angel""";English;4;159;12;43
+2011;finals;24;Serbia;Nina;"""?aroban"" (???????)";Serbian;14;85;12;43
+2011;finals;25;Georgia;Eldrine;"""One More Day""";English;9;110;12;43
+2010;semifinals 1;1;Moldova;SunStroke Project and Olia Tira;"""Run Away""";English;10;52;12;20
+2010;semifinals 1;2;Russia;Peter Nalitch and Friends;"""Lost and Forgotten""";English;7;74;12;20
+2010;semifinals 1;3;Estonia;Malcolm Lincoln and Manpower 4;"""Siren""";English;14;39;12;20
+2010;semifinals 1;4;Slovakia;Kristina;"""Horehronie""";Slovak;16;24;12;20
+2010;semifinals 1;5;Finland;Kuunkuiskaajat;"""Työlki ellää""";Finnish;11;49;12;20
+2010;semifinals 1;6;Latvia;Aisha;"""What For?""";English;17;11;12;20
+2010;semifinals 1;7;Serbia;Milan Stankovi?;"""Ovo je Balkan"" (O?? je ??????)";Serbian;5;79;12;20
+2010;semifinals 1;8;Bosnia and Herzegovina;Vukašin Braji?;"""Thunder and Lightning""";English;8;59;12;20
+2010;semifinals 1;9;Poland;Marcin Mrozi?ski;"""Legenda""";English, Polish;13;44;12;20
+2010;semifinals 1;10;Belgium;Tom Dice;"""Me and My Guitar""";English;1;167;12;20
+2010;semifinals 1;11;Malta;Thea Garrett;"""My Dream""";English;12;45;12;20
+2010;semifinals 1;12;Albania;Juliana Pasha;"""It's All About You""";English;6;76;12;20
+2010;semifinals 1;13;Greece;Giorgos Alkaios and Friends;"""OPA"" (???)";Greek;2;133;12;20
+2010;semifinals 1;14;Portugal;Filipa Azevedo;"""Há dias assim""";Portuguese;4;89;12;20
+2010;semifinals 1;15;Macedonia;Gjoko Taneski;"""Jas ja imam silata"" (??? ?? ???? ??????)";Macedonian;15;37;12;20
+2010;semifinals 1;16;Belarus;3+2 feat Robert Wells;"""Butterflies""";English;9;59;12;20
+2010;semifinals 1;17;Iceland;Hera Björk;"""Je ne sais quoi""";English;3;123;12;20
+2010;semifinals 2;1;Lithuania;InCulto;"""Eastern European Funk""";English;12;44;12;19
+2010;semifinals 2;2;Armenia;Eva Rivas;"""Apricot Stone""";English;6;83;12;19
+2010;semifinals 2;3;Israel;Harel Skaat;"""Milim"" (?????)";Hebrew;8;71;12;19
+2010;semifinals 2;4;Denmark;Chanée and N'evergreen;"""In a Moment Like This""";English;5;101;12;19
+2010;semifinals 2;5;Switzerland;Michael von der Heide;"""Il pleut de l'or""";French;17;2;12;19
+2010;semifinals 2;6;Sweden;Anna Bergendahl;"""This Is My Life""";English;11;62;12;19
+2010;semifinals 2;7;Azerbaijan;Safura;"""Drip Drop""";English;2;113;12;19
+2010;semifinals 2;8;Ukraine;Alyosha;"""Sweet People""";English;7;77;12;19
+2010;semifinals 2;9;Netherlands;Sieneke;"""Ik ben verliefd (Sha-la-lie)""";Dutch;14;29;12;19
+2010;semifinals 2;10;Romania;Paula Seling and Ovi;"""Playing with Fire""";English;4;104;12;19
+2010;semifinals 2;11;Slovenia;Ansambel Žlindra and Kalamari;"""Narodnozabavni rock""";Slovene;16;6;12;19
+2010;semifinals 2;12;Ireland;Niamh Kavanagh;"""It's for You""";English;9;67;12;19
+2010;semifinals 2;13;Bulgaria;Miro;"""Angel si ti"" (????? ?? ??)";Bulgarian, English;15;19;12;19
+2010;semifinals 2;14;Cyprus;Jon Lilygreen and The Islanders;"""Life Looks Better in Spring""";English;10;67;12;19
+2010;semifinals 2;15;Croatia;Feminnem;"""Lako je sve""";Croatian;13;33;12;19
+2010;semifinals 2;16;Georgia;Sofia Nizharadze;"""Shine""";English;3;106;12;19
+2010;semifinals 2;17;Turkey;maNga;"""We Could Be the Same""";English;1;118;12;19
+2010;finals;1;Azerbaijan;Safura;"""Drip Drop""";English;5;145;12;39
+2010;finals;2;Spain;Daniel Diges;"""Algo Pequeñito""";Spanish;15;68;12;39
+2010;finals;3;Norway;Didrik Solli-Tangen;"""My Heart Is Yours""";English;20;35;12;39
+2010;finals;4;Moldova;SunStroke Project and Olia Tira;"""Run Away""";English;22;27;12;39
+2010;finals;5;Cyprus;Jon Lilygreen and The Islanders;"""Life Looks Better in Spring""";English;21;27;12;39
+2010;finals;6;Bosnia and Herzegovina;Vukašin Braji?;"""Thunder and Lightning""";English;17;51;12;39
+2010;finals;7;Belgium;Tom Dice;"""Me and My Guitar""";English;6;143;12;39
+2010;finals;8;Serbia;Milan Stankovi?;"""Ovo je Balkan"" (O?? je ??????)";Serbian;13;72;12;39
+2010;finals;9;Belarus;3+2 feat Robert Wells;"""Butterflies""";English;24;18;12;39
+2010;finals;10;Ireland;Niamh Kavanagh;"""It's for You""";English;23;25;12;39
+2010;finals;11;Greece;Giorgos Alkaios and Friends;"""OPA"" (???)";Greek;8;140;12;39
+2010;finals;12;United Kingdom;Josh Dubovie;"""That Sounds Good to Me""";English;25;10;12;39
+2010;finals;13;Georgia;Sofia Nizharadze;"""Shine""";English;9;136;12;39
+2010;finals;14;Turkey;maNga;"""We Could Be the Same""";English;2;170;12;39
+2010;finals;15;Albania;Juliana Pasha;"""It's All About You""";English;16;62;12;39
+2010;finals;16;Iceland;Hera Björk;"""Je ne sais quoi""";English;19;41;12;39
+2010;finals;17;Ukraine;Alyosha;"""Sweet People""";English;10;108;12;39
+2010;finals;18;France;Jessy Matador;"""Allez Ola Olé""";French;12;82;12;39
+2010;finals;19;Romania;Paula Seling and Ovi;"""Playing with Fire""";English;3;162;12;39
+2010;finals;20;Russia;Peter Nalitch and Friends;"""Lost and Forgotten""";English;11;90;12;39
+2010;finals;21;Armenia;Eva Rivas;"""Apricot Stone""";English;7;141;12;39
+2010;finals;22;Germany;Lena;"""Satellite""";English;1;246;12;39
+2010;finals;23;Portugal;Filipa Azevedo;"""Há dias assim""";Portuguese;18;43;12;39
+2010;finals;24;Israel;Harel Skaat;"""Milim"" (?????)";Hebrew;14;71;12;39
+2010;finals;25;Denmark;Chanée and N'evergreen;"""In a Moment Like This""";English;4;149;12;39
+2009;semifinals 1;1;Montenegro;Andrea Demirovi?;"""Just Get Out of My Life""";English;11;44;12;20
+2009;semifinals 1;2;Czech Republic;Gipsy.cz;"""Aven Romale""";English, Romani;18;0;12;20
+2009;semifinals 1;3;Belgium;Copycat;"""Copycat""";English;17;1;12;20
+2009;semifinals 1;4;Belarus;Petr Elfimov;"""Eyes That Never Lie""";English;13;25;12;20
+2009;semifinals 1;5;Sweden;Malena Ernman;"""La voix""";French, English;4;105;12;20
+2009;semifinals 1;6;Armenia;Inga and Anush;"""Jan Jan"" (??? ???)";English, Armenian;5;99;12;20
+2009;semifinals 1;7;Andorra;Susanne Georgi;"""La teva decisió (Get a Life)""";Catalan, English;15;8;12;20
+2009;semifinals 1;8;Switzerland;Lovebugs;"""The Highest Heights""";English;14;15;12;20
+2009;semifinals 1;9;Turkey;Hadise;"""Düm Tek Tek""";English;2;172;12;20
+2009;semifinals 1;10;Israel;Noa and Mira Awad;"""There Must Be Another Way""";English, Hebrew, Arabic;7;75;12;20
+2009;semifinals 1;11;Bulgaria;Krassimir Avramov;"""Illusion""";English;16;7;12;20
+2009;semifinals 1;12;Iceland;Yohanna[69];"""Is It True?""";English;1;174;12;20
+2009;semifinals 1;13;Macedonia;Next Time;"""Nešto što kje ostane""";Macedonian;10;45;12;20
+2009;semifinals 1;14;Romania;Elena;"""The Balkan Girls""";English;9;67;12;20
+2009;semifinals 1;15;Finland;Waldo's People;"""Lose Control""";English;12;42;12;20
+2009;semifinals 1;16;Portugal;Flor-de-Lis;"""Todas as ruas do amor""";Portuguese;8;70;12;20
+2009;semifinals 1;17;Malta;Chiara;"""What If We""";English;6;86;12;20
+2009;semifinals 1;18;Bosnia and Herzegovina;Regina;"""Bistra voda""";Bosnian;3;125;12;20
+2009;semifinals 2;1;Croatia;Igor Cukrov feat. Andrea;"""Lijepa Tena""";Croatian;13;33;12;21
+2009;semifinals 2;2;Ireland;Sinéad Mulvey and Black Daisy;"""Et Cetera""";English;11;52;12;21
+2009;semifinals 2;3;Latvia;Intars Busulis;"""Probka"" (??????)";Russian;19;7;12;21
+2009;semifinals 2;4;Serbia;Marko Kon and Milaan[73];"""Cipela"" (??????)";Serbian;10;60;12;21
+2009;semifinals 2;5;Poland;Lidia Kopania;"""I Don't Wanna Leave""";English;12;43;12;21
+2009;semifinals 2;6;Norway;Alexander Rybak;"""Fairytale""";English;1;201;12;21
+2009;semifinals 2;7;Cyprus;Christina Metaxa;"""Firefly""";English;14;32;12;21
+2009;semifinals 2;8;Slovakia;Kamil Mikul?ík and Nela Pocisková;"""Le? tmou""";Slovak;18;8;12;21
+2009;semifinals 2;9;Denmark;Brinck;"""Believe Again""";English;8;69;12;21
+2009;semifinals 2;10;Slovenia;Quartissimo feat. Martina;"""Love Symphony""";English;16;14;12;21
+2009;semifinals 2;11;Hungary;Zoli Ádok;"""Dance with Me""";English;15;16;12;21
+2009;semifinals 2;12;Azerbaijan;AySel and Arash[74];"""Always""";English;2;180;12;21
+2009;semifinals 2;13;Greece;Sakis Rouvas;"""This Is Our Night""";English;4;110;12;21
+2009;semifinals 2;14;Lithuania;Sasha Son;"""Love""";English, Russian;9;66;12;21
+2009;semifinals 2;15;Moldova;Nelly Ciobanu;"""Hora din Moldova""";Romanian, English;5;106;12;21
+2009;semifinals 2;16;Albania;Kejsi Tola;"""Carry Me in Your Dreams""";English;7;73;12;21
+2009;semifinals 2;17;Ukraine;Svetlana Loboda;"""Be My Valentine""";English;6;80;12;21
+2009;semifinals 2;18;Estonia;Urban Symphony;"""Rändajad""";Estonian;3;115;12;21
+2009;semifinals 2;19;Netherlands;The Toppers;"""Shine""";English;17;11;12;21
+2009;finals;1;Lithuania;Sasha Son;"""Love""";English, Russian;23;23;12;42
+2009;finals;2;Israel;Noa and Mira Awad;"""There Must Be Another Way""";English, Hebrew, Arabic;16;53;12;42
+2009;finals;3;France;Patricia Kaas;"""Et s'il fallait le faire""";French;8;107;12;42
+2009;finals;4;Sweden;Malena Ernman;"""La voix""";French, English;21;33;12;42
+2009;finals;5;Croatia;Igor Cukrov feat. Andrea;"""Lijepa Tena""";Croatian;18;45;12;42
+2009;finals;6;Portugal;Flor-de-Lis;"""Todas as ruas do amor""";Portuguese;15;57;12;42
+2009;finals;7;Iceland;Yohanna[69];"""Is It True?""";English;2;218;12;42
+2009;finals;8;Greece;Sakis Rouvas;"""This Is Our Night""";English;7;120;12;42
+2009;finals;9;Armenia;Inga and Anush;"""Jan Jan"" (??? ???)";English, Armenian;10;92;12;42
+2009;finals;10;Russia;Anastasiya Prikhodko;"""Mamo"" (????)";Russian, Ukrainian;11;91;12;42
+2009;finals;11;Azerbaijan;AySel and Arash[74];"""Always""";English;3;207;12;42
+2009;finals;12;Bosnia and Herzegovina;Regina;"""Bistra voda""";Bosnian;9;106;12;42
+2009;finals;13;Moldova;Nelly Ciobanu;"""Hora din Moldova""";Romanian, English;14;69;12;42
+2009;finals;14;Malta;Chiara;"""What If We""";English;22;31;12;42
+2009;finals;15;Estonia;Urban Symphony;"""Rändajad""";Estonian;6;129;12;42
+2009;finals;16;Denmark;Niels Brinck;"""Believe Again""";English;13;74;12;42
+2009;finals;17;Germany;Alex Swings Oscar Sings![75];"""Miss Kiss Kiss Bang""";English;20;35;12;42
+2009;finals;18;Turkey;Hadise;"""Düm Tek Tek""";English;4;177;12;42
+2009;finals;19;Albania;Kejsi Tola;"""Carry Me in Your Dreams""";English;17;48;12;42
+2009;finals;20;Norway;Alexander Rybak;"""Fairytale""";English;1;387;12;42
+2009;finals;21;Ukraine;Svetlana Loboda;"""Be My Valentine""";English;12;76;12;42
+2009;finals;22;Romania;Elena;"""The Balkan Girls""";English;19;40;12;42
+2009;finals;23;United Kingdom;Jade Ewen;"""It's My Time""";English;5;173;12;42
+2009;finals;24;Finland;Waldo's People;"""Lose Control""";English;25;22;12;42
+2009;finals;25;Spain;Soraya Arnelas;"""La noche es para mí""";Spanish;24;23;12;42
+2008;semifinals 1;1;Montenegro;Stefan Filipovi?;"""Zauvijek volim te""";Montenegrin;14;23;12;21
+2008;semifinals 1;2;Israel;Boaz Ma'uda;"""The Fire in Your Eyes""";Hebrew, English;5;104;12;21
+2008;semifinals 1;3;Estonia;Kreisiraadio;"""Leto svet""";Serbian, German, Finnish;18;8;12;21
+2008;semifinals 1;4;Moldova;Geta Burlacu;"""A Century of Love""";English;12;36;12;21
+2008;semifinals 1;5;San Marino;Miodio;"""Complice""";Italian;19;5;12;21
+2008;semifinals 1;6;Belgium;Ishtar;"""O Julissi""";Imaginary;17;16;12;21
+2008;semifinals 1;7;Azerbaijan;Elnur and Samir;"""Day After Day""";English;6;96;12;21
+2008;semifinals 1;8;Slovenia;Rebeka Dremelj;"""Vrag naj vzame""";Slovene;11;36;12;21
+2008;semifinals 1;9;Norway;Maria Haukaas Storeng;"""Hold On Be Strong""";English;4;106;12;21
+2008;semifinals 1;10;Poland;Isis Gee;"""For Life""";English;10;42;12;21
+2008;semifinals 1;11;Ireland;Dustin the Turkey;"""Irelande Douze Pointe""";English, French;15;22;12;21
+2008;semifinals 1;12;Andorra;Gisela;"""Casanova""";English, Catalan;16;22;12;21
+2008;semifinals 1;13;Bosnia and Herzegovina;Laka;"""Pokušaj""";Bosnian;9;72;12;21
+2008;semifinals 1;14;Armenia;Sirusho;"""Qélé, Qélé"" (???? ????)";English, Armenian;2;139;12;21
+2008;semifinals 1;15;Netherlands;Hind;"""Your Heart Belongs to Me""";English;13;27;12;21
+2008;semifinals 1;16;Finland;Teräsbetoni;"""Missä miehet ratsastaa""";Finnish;8;79;12;21
+2008;semifinals 1;17;Romania;Nico and Vlad;"""Pe-o margine de lume""";Romanian, Italian;7;94;12;21
+2008;semifinals 1;18;Russia;Dima Bilan;"""Believe""";English;3;135;12;21
+2008;semifinals 1;19;Greece;Kalomira;"""Secret Combination""";English;1;156;12;21
+2008;semifinals 2;1;Iceland;Euroband;"""This Is My Life""";English;8;68;12;22
+2008;semifinals 2;2;Sweden;Charlotte Perrelli;"""Hero""";English;12;54;12;22
+2008;semifinals 2;3;Turkey;Mor ve Ötesi;"""Deli""";Turkish;7;85;12;22
+2008;semifinals 2;4;Ukraine;Ani Lorak;"""Shady Lady""";English;1;152;12;22
+2008;semifinals 2;5;Lithuania;Jeronimas Milius;"""Nomads in the Night""";English;16;30;12;22
+2008;semifinals 2;6;Albania;Olta Boka;"""Zemrën e lamë peng""";Albanian;9;67;12;22
+2008;semifinals 2;7;Switzerland;Paolo Meneguzzi;"""Era stupendo""";Italian;13;47;12;22
+2008;semifinals 2;8;Czech Republic;Tereza Kerndlová;"""Have Some Fun""";English;18;9;12;22
+2008;semifinals 2;9;Belarus;Ruslan Alekhno;"""Hasta la Vista""";English;17;27;12;22
+2008;semifinals 2;10;Latvia;Pirates of the Sea;"""Wolves of the Sea""";English;6;86;12;22
+2008;semifinals 2;11;Croatia;Kraljevi ulice and 75 cents;"""Romanca""";Croatian;4;112;12;22
+2008;semifinals 2;12;Bulgaria;Deep Zone and Balthazar;"""DJ, Take Me Away""";English;11;56;12;22
+2008;semifinals 2;13;Denmark;Simon Mathew;"""All Night Long""";English;3;112;12;22
+2008;semifinals 2;14;Georgia;Diana Gurtskaya;"""Peace Will Come""";English;5;107;12;22
+2008;semifinals 2;15;Hungary;Csézy;"""Candlelight""";English, Hungarian;19;6;12;22
+2008;semifinals 2;16;Malta;Morena;"""Vodka""";English;14;38;12;22
+2008;semifinals 2;17;Cyprus;Evdokia Kadi;"""Femme Fatale""";Greek;15;36;12;22
+2008;semifinals 2;18;Macedonia;Tamara, Vr?ak & Adrian;"""Let Me Love You""";English;10;64;12;22
+2008;semifinals 2;19;Portugal;Vânia Fernandes;"""Senhora do mar (Negras águas)""";Portuguese;2;120;12;22
+2008;finals;1;Romania;Nico and Vlad;"""Pe-o margine de lume""";Romanian, Italian;20;45;12;43
+2008;finals;2;United Kingdom;Andy Abraham;"""Even If""";English;25;14;12;43
+2008;finals;3;Albania;Olta Boka;"""Zemrën e lamë peng""";Albanian;17;55;12;43
+2008;finals;4;Germany;No Angels;"""Disappear""";English;23;14;12;43
+2008;finals;5;Armenia;Sirusho;"""Qélé, Qélé"" (???? ????)";English, Armenian;4;199;12;43
+2008;finals;6;Bosnia and Herzegovina;Laka;"""Pokušaj""";Bosnian;10;110;12;43
+2008;finals;7;Israel;Boaz Ma'uda;"""The Fire in Your Eyes""";Hebrew, English;9;124;12;43
+2008;finals;8;Finland;Teräsbetoni;"""Missä miehet ratsastaa""";Finnish;22;35;12;43
+2008;finals;9;Croatia;Kraljevi Ulice and 75 cents;"""Romanca""";Croatian;21;44;12;43
+2008;finals;10;Poland;Isis Gee;"""For Life""";English;24;14;12;43
+2008;finals;11;Iceland;Euroband;"""This Is My Life""";English;14;64;12;43
+2008;finals;12;Turkey;Mor ve Ötesi;"""Deli""";Turkish;7;138;12;43
+2008;finals;13;Portugal;Vânia Fernandes;"""Senhora do mar (Negras águas)""";Portuguese;13;69;12;43
+2008;finals;14;Latvia;Pirates of the Sea;"""Wolves of the Sea""";English;12;83;12;43
+2008;finals;15;Sweden;Charlotte Perrelli;"""Hero""";English;18;47;12;43
+2008;finals;16;Denmark;Simon Mathew;"""All Night Long""";English;15;60;12;43
+2008;finals;17;Georgia;Diana Gurtskaya;"""Peace Will Come""";English;11;83;12;43
+2008;finals;18;Ukraine;Ani Lorak;"""Shady Lady""";English;2;230;12;43
+2008;finals;19;France;Sébastien Tellier;"""Divine""";English, French;19;47;12;43
+2008;finals;20;Azerbaijan;Elnur and Samir;"""Day After Day""";English;8;132;12;43
+2008;finals;21;Greece;Kalomira;"""Secret Combination""";English;3;218;12;43
+2008;finals;22;Spain;Rodolfo Chikilicuatre;"""Baila el Chiki-chiki""";Spanish, English;16;55;12;43
+2008;finals;23;Serbia;Jelena Tomaševi? feat. Bora Dugi?;"""Oro"" (???)";Serbian;6;160;12;43
+2008;finals;24;Russia;Dima Bilan;"""Believe""";English;1;272;12;43
+2008;finals;25;Norway;Maria Haukaas Storeng;"""Hold On Be Strong""";English;5;182;12;43
+2007;semifinal;1;Bulgaria;Elitsa Todorova & Stoyan Yankoulov;"""Water""";Bulgarian;6;146;12;42
+2007;semifinal;2;Israel;Teapacks;"""Push the Button""";English, French, Hebrew;24;17;12;42
+2007;semifinal;3;Cyprus;Evridiki;"""Comme ci, comme ça""";French;15;65;12;42
+2007;semifinal;4;Belarus;Koldun;"""Work Your Magic""";English;4;176;12;42
+2007;semifinal;5;Iceland;Eiríkur Hauksson;"""Valentine Lost""";English;13;77;12;42
+2007;semifinal;6;Georgia;Sopho;"""Visionary Dream""";English;8;123;12;42
+2007;semifinal;7;Montenegro;Stevan Faddy;"""'Ajde, kro?i"" ('????, ?????)";Montenegrin;23;33;12;42
+2007;semifinal;8;Switzerland;DJ BoBo;"""Vampires Are Alive""";English;20;40;12;42
+2007;semifinal;9;Moldova;Natalia Barbu;"""Fight""";English;10;91;12;42
+2007;semifinal;10;Netherlands;Edsilia Rombley;"""On Top of the World""";English;21;38;12;42
+2007;semifinal;11;Albania;Frederik Ndoci;"""Hear My Plea""";English, Albanian;17;49;12;42
+2007;semifinal;12;Denmark;DQ;"""Drama Queen""";English;19;45;12;42
+2007;semifinal;13;Croatia;Dragonfly feat. Dado Topi?;"""Vjerujem u ljubav""";Croatian, English;16;54;12;42
+2007;semifinal;14;Poland;The Jet Set;"""Time to Party""";English;14;75;12;42
+2007;semifinal;15;Serbia;Marija Šerifovi?;"""Molitva"" (???????)";Serbian;1;298;12;42
+2007;semifinal;16;Czech Republic;Kabát;"""Malá dáma""";Czech;28;1;12;42
+2007;semifinal;17;Portugal;Sabrina;"""Dança comigo""";Portuguese, English;11;88;12;42
+2007;semifinal;18;Macedonia;Karolina;"""Mojot svet"" (????? ????)";Macedonian, English;9;97;12;42
+2007;semifinal;19;Norway;Guri Schanke;"""Ven a bailar conmigo""";English;18;48;12;42
+2007;semifinal;20;Malta;Olivia Lewis;"""Vertigo""";English;25;15;12;42
+2007;semifinal;21;Andorra;Anonymous;"""Salvem el món""";Catalan, English;12;80;12;42
+2007;semifinal;22;Hungary;Magdi Rúzsa;"""Unsubstantial Blues""";English;2;224;12;42
+2007;semifinal;23;Estonia;Gerli Padar;"""Partners in Crime""";English;22;33;12;42
+2007;semifinal;24;Belgium;The KMG's;"""Love Power""";English;26;14;12;42
+2007;semifinal;25;Slovenia;Alenka Gotar;"""Cvet z juga""";Slovene;7;140;12;42
+2007;semifinal;26;Turkey;Kenan Do?ulu;"""Shake It Up ?ekerim""";English;3;197;12;42
+2007;semifinal;27;Austria;Eric Papilaya;"""Get a Life – Get Alive""";English;27;4;12;42
+2007;semifinal;28;Latvia;Bonaparti.lv;"""Questa notte""";Italian;5;168;12;42
+2007;finals;1;Bosnia and Herzegovina;Marija Šesti?;"""Rijeka bez imena"" (?????? ??? ?????)";Serbian;11;106;12;42
+2007;finals;2;Spain;D'NASH;"""I Love You Mi Vida""";Spanish3;20;43;12;42
+2007;finals;3;Belarus;Dmitry Koldun;"""Work Your Magic""";English;6;145;12;42
+2007;finals;4;Ireland;Dervish;"""They Can't Stop the Spring""";English;24;5;12;42
+2007;finals;5;Finland;Hanna Pakarinen;"""Leave Me Alone""";English;17;53;12;42
+2007;finals;6;Macedonia;Karolina;"""Mojot svet"" (????? ????)";Macedonian, English;14;73;12;42
+2007;finals;7;Slovenia;Alenka Gotar;"""Cvet z juga""";Slovene;15;66;12;42
+2007;finals;8;Hungary;Magdi Rúzsa;"""Unsubstantial Blues""";English;9;128;12;42
+2007;finals;9;Lithuania;4Fun;"""Love or Leave""";English;21;28;12;42
+2007;finals;10;Greece;Sarbel;"""Yassou Maria"" (???? ??? ?????)";English;7;139;12;42
+2007;finals;11;Georgia;Sopho;"""Visionary Dream""";English;12;97;12;42
+2007;finals;12;Sweden;The Ark;"""The Worrying Kind""";English;18;51;12;42
+2007;finals;13;France;Les Fatals Picards;"""L'amour à la française""";"French, English (""Franglais"")";22;19;12;42
+2007;finals;14;Latvia;Bonaparti.lv;"""Questa notte""";Italian;16;54;12;42
+2007;finals;15;Russia;Serebro;"""Song #1""";English;3;207;12;42
+2007;finals;16;Germany;Roger Cicero;"""Frauen regier'n die Welt""";German, English;19;49;12;42
+2007;finals;17;Serbia;Marija Šerifovi?;"""Molitva"" (???????)";Serbian;1;268;12;42
+2007;finals;18;Ukraine;Verka Serduchka;"""Dancing Lasha Tumbai"" (Dancing ???? ??????)";German, English, Ukrainian;2;235;12;42
+2007;finals;19;United Kingdom;Scooch;"""Flying the Flag (For You)""";English;23;19;12;42
+2007;finals;20;Romania;Todomondo;"""Liubi, Liubi, I Love You"" (????, ????, I Love You)";English, Italian, Spanish;13;84;12;42
+2007;finals;21;Bulgaria;Elitsa Todorova & Stoyan Yankoulov;"""Water""";Bulgarian;5;157;12;42
+2007;finals;22;Turkey;Kenan Do?ulu;"""Shake It Up ?ekerim""";English;4;163;12;42
+2007;finals;23;Armenia;Hayko;"""Anytime You Need""";English, Armenian;8;138;12;42
+2007;finals;24;Moldova;Natalia Barbu;"""Fight""";English;10;109;12;42
+2006;semifinal;1;Armenia;André;"""Without Your Love""";English;6;150;12;37
+2006;semifinal;2;Bulgaria;Mariana Popova;"""Let Me Cry""";English;17;36;12;37
+2006;semifinal;3;Slovenia;Anžej Dežan;"""Mr Nobody""";English;16;49;12;37
+2006;semifinal;4;Andorra;Jenny;"""Sense tu""";Catalan;23;8;12;37
+2006;semifinal;5;Belarus;Polina Smolova;"""Mum""";English;22;10;12;37
+2006;semifinal;6;Albania;Luiz Ejlli;"""Zjarr e ftohtë""";Albanian;14;58;12;37
+2006;semifinal;7;Belgium;Kate Ryan;"""Je t'adore""";English;12;69;12;37
+2006;semifinal;8;Ireland;Brian Kennedy;"""Every Song Is a Cry for Love""";English;9;79;12;37
+2006;semifinal;9;Cyprus;Annet Artani;"""Why Angels Cry""";English;15;57;12;37
+2006;semifinal;10;Monaco;Séverine Ferrer;"""La Coco-Dance""";French, Tahitian;21;14;12;37
+2006;semifinal;11;Macedonia;Elena Risteska;"""Ninanajna"" (?????????)";English, Macedonian;10;76;12;37
+2006;semifinal;12;Poland;Ich Troje feat. Real McCoy;"""Follow My Heart""";English, Polish, German, Russian1;11;70;12;37
+2006;semifinal;13;Russia;Dima Bilan;"""Never Let You Go""";English;3;217;12;37
+2006;semifinal;14;Turkey;Sibel Tüzün;"""Süper Star""";Turkish, English;8;91;12;37
+2006;semifinal;15;Ukraine;Tina Karol;"""Show Me Your Love""";English;7;146;12;37
+2006;semifinal;16;Finland;Lordi;"""Hard Rock Hallelujah""";English;1;292;12;37
+2006;semifinal;17;Netherlands;Treble;"""Amambanda""";English, Imaginary;20;22;12;37
+2006;semifinal;18;Lithuania;LT United;"""We Are the Winners""";English;5;163;12;37
+2006;semifinal;19;Portugal;Nonstop;"""Coisas de nada""";Portuguese, English;19;26;12;37
+2006;semifinal;20;Sweden;Carola;"""Invincible""";English;4;214;12;37
+2006;semifinal;21;Estonia;Sandra Oxenryd;"""Through My Window""";English;18;28;12;37
+2006;semifinal;22;Bosnia and Herzegovina;Hari Mata Hari;"""Lejla""";Bosnian;2;267;12;37
+2006;semifinal;23;Iceland;Silvia Night;"""Congratulations""";English;13;62;12;37
+2006;finals;1;Switzerland;six4one;"""If We All Give a Little""";English;16;30;12;37
+2006;finals;2;Moldova;Arsenium feat. Natalia Gordienko;"""Loca""";English;20;22;12;37
+2006;finals;3;Israel;Eddie Butler;"""Together We Are One""";Hebrew, English;23;4;12;37
+2006;finals;4;Latvia;Vocal Group Cosmos;"""I Hear Your Heart""";English;16;30;12;37
+2006;finals;5;Norway;Christine Guldbrandsen;"""Alvedansen""";Norwegian;14;36;12;37
+2006;finals;6;Spain;Las Ketchup;"""Un Blodymary""";Spanish;21;18;12;37
+2006;finals;7;Malta;Fabrizio Faniello;"""I Do""";English;24;1;12;37
+2006;finals;8;Germany;Texas Lightning;"""No No Never""";English;14;36;12;37
+2006;finals;9;Denmark;Sidsel Ben Semmane;"""Twist of Love""";English;18;26;12;37
+2006;finals;10;Russia;Dima Bilan;"""Never Let You Go""";English;2;248;12;37
+2006;finals;11;Macedonia;Elena Risteska;"""Ninanajna"" (?????????)";English, Macedonian;12;56;12;37
+2006;finals;12;Romania;Mihai Tr?istariu;"""Tornerò""";English, Italian;4;172;12;37
+2006;finals;13;Bosnia and Herzegovina;Hari Mata Hari;"""Lejla""";Bosnian;3;229;12;37
+2006;finals;14;Lithuania;LT United;"""We Are the Winners""";English;6;162;12;37
+2006;finals;15;United Kingdom;Daz Sampson;"""Teenage Life""";English;19;25;12;37
+2006;finals;16;Greece;Anna Vissi;"""Everything""";English;9;128;12;37
+2006;finals;17;Finland;Lordi;"""Hard Rock Hallelujah""";English;1;292;12;37
+2006;finals;18;Ukraine;Tina Karol;"""Show Me Your Love""";English;7;145;12;37
+2006;finals;19;France;Virginie Pouchain;"""Il était temps""";French;22;5;12;37
+2006;finals;20;Croatia;Severina;"""Moja štikla""";Croatian;12;56;12;37
+2006;finals;21;Ireland;Brian Kennedy;"""Every Song Is a Cry for Love""";English;10;93;12;37
+2006;finals;22;Sweden;Carola;"""Invincible""";English;5;170;12;37
+2006;finals;23;Turkey;Sibel Tüzün;"""Süper Star""";Turkish, English;11;91;12;37
+2006;finals;24;Armenia;André;"""Without Your Love""";English;8;129;12;37
+2005;semifinal;1;Austria;Global.Kryner;"""Y así""";English, Spanish;21;30;12;39
+2005;semifinal;2;Lithuania;Laura & The Lovers;"""Little by Little""";English;25;17;12;39
+2005;semifinal;3;Portugal;2B;"""Amar""";Portuguese, English;17;51;12;39
+2005;semifinal;4;Moldova;Zdob ?i Zdub;"""Boonika bate toba""";English, Romanian;2;207;12;39
+2005;semifinal;5;Latvia;Walters & Kazha;"""The War Is Not Over""";English;10;85;12;39
+2005;semifinal;6;Monaco;Lise Darly;"""Tout de moi""";French;24;22;12;39
+2005;semifinal;7;Israel;Shiri Maimon;"""Hasheket Shenish'ar"" (???? ?????)";Hebrew, English;7;158;12;39
+2005;semifinal;8;Belarus;Angelica Agurbash;"""Love Me Tonight""";English;13;67;12;39
+2005;semifinal;9;Netherlands;Glennis Grace;"""My Impossible Dream""";English;14;53;12;39
+2005;semifinal;10;Iceland;Selma;"""If I Had Your Love""";English;16;52;12;39
+2005;semifinal;11;Belgium;Nuno Resende;"""Le grand soir""";French;22;29;12;39
+2005;semifinal;12;Estonia;Suntribe;"""Let's Get Loud""";English;20;31;12;39
+2005;semifinal;13;Norway;Wig Wam;"""In My Dreams""";English;6;164;12;39
+2005;semifinal;14;Romania;Lumini?a Anghel & Sistem;"""Let Me Try""";English;1;235;12;39
+2005;semifinal;15;Hungary;NOX;"""Forogj, világ!""";Hungarian;5;167;12;39
+2005;semifinal;16;Finland;Geir Rönning;"""Why?""";English;18;50;12;39
+2005;semifinal;17;Macedonia;Martin Vu?i?;"""Make My Day""";English;9;97;12;39
+2005;semifinal;18;Andorra;Marian van de Wal;"""La mirada interior""";Catalan;23;27;12;39
+2005;semifinal;19;Switzerland;Vanilla Ninja;"""Cool Vibes""";English;8;114;12;39
+2005;semifinal;20;Croatia;Boris Novkovi? feat. Lado Members;"""Vukovi umiru sami""";Croatian;4;169;12;39
+2005;semifinal;21;Bulgaria;Kaffe;"""Lorraine""";English;19;49;12;39
+2005;semifinal;22;Ireland;Donna and Joe;"""Love?""";English;14;53;12;39
+2005;semifinal;23;Slovenia;Omar Naber;"""Stop""";Slovene;12;69;12;39
+2005;semifinal;24;Denmark;Jakob Sveistrup;"""Talking to You""";English;3;185;12;39
+2005;semifinal;25;Poland;Ivan & Delfin;"""Czarna dziewczyna""";Polish, Russian;11;81;12;39
+2005;finals;1;Hungary;NOX;"""Forogj, világ!""";Hungarian;12;97;12;39
+2005;finals;2;United Kingdom;Javine;"""Touch My Fire""";English;22;18;12;39
+2005;finals;3;Malta;Chiara;"""Angel""";English;2;192;12;39
+2005;finals;4;Romania;Lumini?a Anghel & Sistem;"""Let Me Try""";English;3;158;12;39
+2005;finals;5;Norway;Wig Wam;"""In My Dreams""";English;9;125;12;39
+2005;finals;6;Turkey;Gülseren;"""Rimi Rimi Ley""";Turkish;13;92;12;39
+2005;finals;7;Moldova;Zdob ?i Zdub;"""Boonika bate toba""";English, Romanian;6;148;12;39
+2005;finals;8;Albania;Ledina Çelo;"""Tomorrow I Go""";English;16;53;12;39
+2005;finals;9;Cyprus;Constantinos Christoforou;"""Ela Ela""";English;18;46;12;39
+2005;finals;10;Spain;Son de Sol;"""Brujería""";Spanish;21;28;12;39
+2005;finals;11;Israel;Shiri Maimon;"""Hasheket Shenish'ar"" (???? ?????)";Hebrew, English;4;154;12;39
+2005;finals;12;Serbia and Montenegro;No Name;"""Zauvijek moja"" (???????? ????)";Montenegrin;7;137;12;39
+2005;finals;13;Denmark;Jakob Sveistrup;"""Talking to You""";English;9;125;12;39
+2005;finals;14;Sweden;Martin Stenmarck;"""Las Vegas""";English;19;30;12;39
+2005;finals;15;Macedonia;Martin Vu?i?;"""Make My Day""";English;17;52;12;39
+2005;finals;16;Ukraine;GreenJolly;"""Razom nas bahato"" (????? ??? ??????)";Ukrainian, English;19;30;12;39
+2005;finals;17;Germany;Gracia;"""Run and Hide""";English;24;4;12;39
+2005;finals;18;Croatia;Boris Novkovi? feat. Lado Members;"""Vukovi umiru sami""";Croatian;11;115;12;39
+2005;finals;19;Greece;Helena Paparizou;"""My Number One""";English;1;230;12;39
+2005;finals;20;Russia;Natalia Podolskaya;"""Nobody Hurt No One""";English;15;57;12;39
+2005;finals;21;Bosnia and Herzegovina;Feminnem;"""Call Me""";English;14;79;12;39
+2005;finals;22;Switzerland;Vanilla Ninja;"""Cool Vibes""";English;8;128;12;39
+2005;finals;23;Latvia;Walters & Kazha;"""The War Is Not Over""";English;5;153;12;39
+2005;finals;24;France;Ortal;"""Chacun pense à soi""";French;23;11;12;39
+2004;semifinal;1;Finland;Jari Sillanpää;"""Takes 2 to Tango""";English;14;51;12;33
+2004;semifinal;2;Belarus;Aleksandra and Konstantin;"""My Galileo""";English;19;10;12;33
+2004;semifinal;3;Switzerland;Piero Esteriore & The MusicStars;"""Celebrate""";English;22;0;12;33
+2004;semifinal;4;Latvia;Fomins and Kleins;"""Dziesma par laimi""";Latvian;17;23;12;33
+2004;semifinal;5;Israel;David D'Or;"""Leha'amin"" (??????)";Hebrew, English;12;57;12;33
+2004;semifinal;6;Andorra;Marta Roure;"""Jugarem a estimar-nos""";Catalan;18;12;12;33
+2004;semifinal;7;Portugal;Sofia Vitória;"""Foi magia""";Portuguese;15;38;12;33
+2004;semifinal;8;Malta;Julie and Ludwig;"""On Again... Off Again""";English;8;74;12;33
+2004;semifinal;9;Monaco;Maryon;"""Notre planète""";French;19;10;12;33
+2004;semifinal;10;Greece;Sakis Rouvas;"""Shake It""";English;3;238;12;33
+2004;semifinal;11;Ukraine;Ruslana;"""Wild Dances""";English, Ukrainian;2;256;12;33
+2004;semifinal;12;Lithuania;Linas and Simona;"""What's Happened to Your Love?""";English;16;26;12;33
+2004;semifinal;13;Albania;Anjeza Shahini;"""The Image of You""";English;4;167;12;33
+2004;semifinal;14;Cyprus;Lisa Andreas;"""Stronger Every Minute""";English;5;149;12;33
+2004;semifinal;15;Macedonia;Toše Proeski;"""Life""";English;10;71;12;33
+2004;semifinal;16;Slovenia;Platin;"""Stay Forever""";English;21;5;12;33
+2004;semifinal;17;Estonia;Neiokõsõ;"""Tii""";Võro;11;57;12;33
+2004;semifinal;18;Croatia;Ivan Mikuli?;"""You Are the Only One""";English;9;72;12;33
+2004;semifinal;19;Denmark;Tomas Thordarson;"""Shame on You""";English;13;56;12;33
+2004;semifinal;20;Serbia and Montenegro;Željko Joksimovi? & Ad-Hoc Orchestra;"""Lane moje"" (???? ????)";Serbian;1;263;12;33
+2004;semifinal;21;Bosnia and Herzegovina;Deen;"""In the Disco""";English;7;133;12;33
+2004;semifinal;22;Netherlands;Re-Union;"""Without You""";English;6;146;12;33
+2004;finals;1;Spain;Ramón;"""Para llenarme de ti""";Spanish;10;87;12;36
+2004;finals;2;Austria;Tie Break;"""Du bist""";German;21;9;12;36
+2004;finals;3;Norway;Knut Anders Sørum;"""High""";English;24;3;12;36
+2004;finals;4;France;Jonatan Cerrada;"""À chaque pas""";French, Spanish;15;40;12;36
+2004;finals;5;Serbia and Montenegro;Željko Joksimovi? & Ad-Hoc Orchestra;"""Lane moje"" (???? ????)";Serbian;2;263;12;36
+2004;finals;6;Malta;Julie and Ludwig;"""On Again... Off Again""";English;12;50;12;36
+2004;finals;7;Netherlands;Re-Union;"""Without You""";English;20;11;12;36
+2004;finals;8;Germany;Max;"""Can't Wait Until Tonight""";English, Turkish;8;93;12;36
+2004;finals;9;Albania;Anjeza Shahini;"""The Image of You""";English;7;106;12;36
+2004;finals;10;Ukraine;Ruslana;"""Wild Dances""";English, Ukrainian;1;280;12;36
+2004;finals;11;Croatia;Ivan Mikuli?;"""You Are the Only One""";English;12;50;12;36
+2004;finals;12;Bosnia and Herzegovina;Deen;"""In the Disco""";English;9;91;12;36
+2004;finals;13;Belgium;Xandee;"""1 Life""";English;22;7;12;36
+2004;finals;14;Russia;Julia Savicheva;"""Believe Me""";English;11;67;12;36
+2004;finals;15;Macedonia;Toše Proeski;"""Life""";English;14;47;12;36
+2004;finals;16;Greece;Sakis Rouvas;"""Shake It""";English;3;252;12;36
+2004;finals;17;Iceland;Jónsi;"""Heaven""";English;19;16;12;36
+2004;finals;18;Ireland;Chris Doran;"""If My World Stopped Turning""";English;22;7;12;36
+2004;finals;19;Poland;Blue Café;"""Love Song""";English, Spanish;17;27;12;36
+2004;finals;20;United Kingdom;James Fox;"""Hold On to Our Love""";English;16;29;12;36
+2004;finals;21;Cyprus;Lisa Andreas;"""Stronger Every Minute""";English;5;170;12;36
+2004;finals;22;Turkey;Athena;"""For Real""";English;4;195;12;36
+2004;finals;23;Romania;Sanda;"""I Admit""";English;18;18;12;36
+2004;finals;24;Sweden;Lena Philipsson;"""It Hurts""";English;5;170;12;36
+2003;single-round;1;Iceland;Birgitta;"""Open Your Heart""";English;8;81;12;26
+2003;single-round;2;Austria;Alf Poier;"""Weil der Mensch zählt""";German;6;101;12;26
+2003;single-round;3;Ireland;Mickey Harte;"""We've Got the World""";English;11;53;12;26
+2003;single-round;4;Turkey;Sertab Erener;"""Everyway That I Can""";English;1;167;12;26
+2003;single-round;5;Malta;Lynn Chircop;"""To Dream Again""";English;25;4;12;26
+2003;single-round;6;Bosnia and Herzegovina;Mija Martina;"""Ne brini""";Croatian, English;16;27;12;26
+2003;single-round;7;Portugal;Rita Guerra;"""Deixa-me sonhar""";Portuguese, English;22;13;12;26
+2003;single-round;8;Croatia;Claudia Beni;"""Više nisam tvoja""";Croatian, English;15;29;12;26
+2003;single-round;9;Cyprus;Stelios Constantas;"""Feeling Alive""";English;20;15;12;26
+2003;single-round;10;Germany;Lou;"""Let's Get Happy""";English;11;53;12;26
+2003;single-round;11;Russia;t.A.T.u.;"""Ne ver'’, ne boysia"" (?? ????, ?? ?????)";Russian;3;164;12;26
+2003;single-round;12;Spain;Beth;"""Dime""";Spanish;8;81;12;26
+2003;single-round;13;Israel;Lior Narkis;"""Words for Love""";Hebrew;19;17;12;26
+2003;single-round;14;Netherlands;Esther Hart;"""One More Night""";English;13;45;12;26
+2003;single-round;15;United Kingdom;Jemini;"""Cry Baby""";English;26;0;12;26
+2003;single-round;16;Ukraine;Olexandr;"""Hasta la Vista""";English;14;30;12;26
+2003;single-round;17;Greece;Mando;"""Never Let You Go""";English;17;25;12;26
+2003;single-round;18;Norway;Jostein Hasselgård;"""I'm Not Afraid to Move On""";English;4;123;12;26
+2003;single-round;19;France;Louisa Baïleche;"""Monts et merveilles""";French;18;19;12;26
+2003;single-round;20;Poland;Ich Troje;"""Keine Grenzen – ?adnych granic""";German, Polish, Russian;7;90;12;26
+2003;single-round;21;Latvia;F.L.Y.;"""Hello from Mars""";English;24;5;12;26
+2003;single-round;22;Belgium;Urban Trad;"""Sanomi""";Imaginary;2;165;12;26
+2003;single-round;23;Estonia;Ruffus;"""Eighties Coming Back""";English;21;14;12;26
+2003;single-round;24;Romania;Nicola;"""Don't Break My Heart""";English;10;73;12;26
+2003;single-round;25;Sweden;Fame;"""Give Me Your Love""";English;5;107;12;26
+2003;single-round;26;Slovenia;Karmen;"""Nanana""";English;23;7;12;26
+2002;single-round;1;Cyprus;One;"""Gimme""";English;6;85;12;24
+2002;single-round;2;United Kingdom;Jessica Garlick;"""Come Back""";English;3;111;12;24
+2002;single-round;3;Austria;Manuel Ortega;"""Say a Word""";English;18;26;12;24
+2002;single-round;4;Greece;Michalis Rakintzis;"""S.A.G.A.P.O.""";English;17;27;12;24
+2002;single-round;5;Spain;Rosa;"""Europe's Living a Celebration""";Spanish, English;7;81;12;24
+2002;single-round;6;Croatia;Vesna Pisarovi?;"""Everything I Want""";English;11;44;12;24
+2002;single-round;7;Russia;Prime Minister;"""Northern Girl""";English;10;55;12;24
+2002;single-round;8;Estonia;Sahlene;"""Runaway""";English;3;111;12;24
+2002;single-round;9;Macedonia;Karolina Go?eva;"""Od nas zavisi"" (?? ??? ??????)";Macedonian;19;25;12;24
+2002;single-round;10;Israel;Sarit Hadad;"""Light a Candle""";Hebrew, English;12;37;12;24
+2002;single-round;11;Switzerland;Francine Jordi;"""Dans le jardin de mon âme""";French;22;15;12;24
+2002;single-round;12;Sweden;Afro-dite;"""Never Let It Go""";English;8;72;12;24
+2002;single-round;13;Finland;Laura;"""Addicted To You""";English;20;24;12;24
+2002;single-round;14;Denmark;Malene;"""Tell Me Who You Are""";English;24;7;12;24
+2002;single-round;15;Bosnia and Herzegovina;Maja Tati?;"""Na jastuku za dvoje"" (?? ??????? ?? ?????)";Serbian, English;13;33;12;24
+2002;single-round;16;Belgium;Sergio & The Ladies;"""Sister""";English;13;33;12;24
+2002;single-round;17;France;Sandrine François;"""Il faut du temps""";French;5;104;12;24
+2002;single-round;18;Germany;Corinna May;"""I Can't Live Without Music""";English;21;17;12;24
+2002;single-round;19;Turkey;Buket Bengisu & Group Safir;"""Leylaklar Soldu Kalbinde""";Turkish, English;16;29;12;24
+2002;single-round;20;Malta;Ira Losco;"""7th Wonder""";English;2;164;12;24
+2002;single-round;21;Romania;Monica Anghel & Marcel Pavel;"""Tell Me Why""";English;9;71;12;24
+2002;single-round;22;Slovenia;Sestre;"""Samo ljubezen""";Slovene;13;33;12;24
+2002;single-round;23;Latvia;Marie N;"""I Wanna""";English;1;176;12;24
+2002;single-round;24;Lithuania;Aivaras;"""Happy You""";English;23;12;12;24
+2001;single-round;1;Netherlands;Michelle;"""Out On My Own""";English;18;16;12;23
+2001;single-round;2;Iceland;Two Tricky;"""Angel""";English;22;3;12;23
+2001;single-round;3;Bosnia and Herzegovina;Nino Pršeš;"""Hano""";Bosnian, English;14;29;12;23
+2001;single-round;4;Norway;Haldor Lægreid;"""On My Own""";English;22;3;12;23
+2001;single-round;5;Israel;Tal Sondak;"""En Davar"" (??? ???)";Hebrew;16;25;12;23
+2001;single-round;6;Russia;Mumiy Troll;"""Lady Alpine Blue""";English;12;37;12;23
+2001;single-round;7;Sweden;Friends;"""Listen to Your Heartbeat""";English;5;100;12;23
+2001;single-round;8;Lithuania;SKAMP;"""You Got Style""";English, Lithuanian;13;35;12;23
+2001;single-round;9;Latvia;Arnis Mednis;"""Too Much""";English;18;16;12;23
+2001;single-round;10;Croatia;Vanna;"""Strings of My Heart""";English;10;42;12;23
+2001;single-round;11;Portugal;MTM;"""Só sei ser feliz assim""";Portuguese;17;18;12;23
+2001;single-round;12;Ireland;Gary O'Shaughnessy;"""Without Your Love""";English;21;6;12;23
+2001;single-round;13;Spain;David Civera;"""Dile que la quiero""";Spanish;6;76;12;23
+2001;single-round;14;France;Natasha St-Pier;"""Je n'ai que mon âme""";French, English;4;142;12;23
+2001;single-round;15;Turkey;Sedat Yüce;"""Sevgiliye Son""";Turkish, English;11;41;12;23
+2001;single-round;16;United Kingdom;Lindsay Dracass;"""No Dream Impossible""";English;15;28;12;23
+2001;single-round;17;Slovenia;Nuša Derenda;"""Energy""";English;7;70;12;23
+2001;single-round;18;Poland;Piasek;"""2 Long""";English;20;11;12;23
+2001;single-round;19;Germany;Michelle;"""Wer Liebe lebt""";German, English;8;66;12;23
+2001;single-round;20;Estonia;Tanel Padar, Dave Benton & 2XL;"""Everybody""";English;1;198;12;23
+2001;single-round;21;Malta;Fabrizio Faniello;"""Another Summer Night""";English;9;48;12;23
+2001;single-round;22;Greece;Antique;"""Die for You""";Greek, English;3;147;12;23
+2001;single-round;23;Denmark;Rollo & King;"""Never Ever Let You Go""";English;2;177;12;23
+2000;single-round;1;Israel;PingPong;"""Sameach"" (???)";Hebrew;22;7;12;24
+2000;single-round;2;Netherlands;Linda Wagenmakers;"""No Goodbyes""";English;13;40;12;24
+2000;single-round;3;United Kingdom;Nicki French;"""Don't Play That Song Again""";English;16;28;12;24
+2000;single-round;4;Estonia;Ines;"""Once in a Lifetime""";English;4;98;12;24
+2000;single-round;5;France;Sofia Mestari;"""On aura le ciel""";French;23;5;12;24
+2000;single-round;6;Romania;Taxi;"""The Moon""";English;17;25;12;24
+2000;single-round;7;Malta;Claudette Pace;"""Desire""";English, Maltese;8;73;12;24
+2000;single-round;8;Norway;Charmed;"""My Heart Goes Boom""";English;11;57;12;24
+2000;single-round;9;Russia;Alsou;"""Solo""";English;2;155;12;24
+2000;single-round;10;Belgium;Nathalie Sorce;"""Envie de vivre""";French;24;2;12;24
+2000;single-round;11;Cyprus;Voice;"""Nomiza"" (??????)";Greek, Italian;21;8;12;24
+2000;single-round;12;Iceland;August & Telma;"""Tell Me!""";English;12;45;12;24
+2000;single-round;13;Spain;Serafín Zubiri;"""Colgado de un sueño""";Spanish;18;18;12;24
+2000;single-round;14;Denmark;Olsen Brothers;"""Fly on the Wings of Love""";English;1;195;12;24
+2000;single-round;15;Germany;Stefan Raab;"""Wadde hadde dudde da?""";German, English;5;96;12;24
+2000;single-round;16;Switzerland;Jane Bogaert;"""La vita cos'è?""";Italian;20;14;12;24
+2000;single-round;17;Croatia;Goran Karan;"""Kad zaspu an?eli""";Croatian;9;70;12;24
+2000;single-round;18;Sweden;Roger Pontare;"""When Spirits Are Calling My Name""";English;7;88;12;24
+2000;single-round;19;Macedonia;XXL;"""100% te ljubam"" (100% ?? ?????)";Macedonian, English;15;29;12;24
+2000;single-round;20;Finland;Nina Åström;"""A Little Bit""";English;18;18;12;24
+2000;single-round;21;Latvia;Brainstorm;"""My Star""";English;3;136;12;24
+2000;single-round;22;Turkey;P?nar Ayhan & The SOS;"""Yorgunum Anla""";Turkish, English;10;59;12;24
+2000;single-round;23;Ireland;Eamonn Toal;"""Millennium of Love""";English;6;92;12;24
+2000;single-round;24;Austria;The Rounder Girls;"""All to You""";English;14;34;12;24
+1999;single-round;1;Lithuania;Aist?;"""Strazdas""";Samogitian;20;13;12;23
+1999;single-round;2;Belgium;Vanessa Chinitor;"""Like the Wind""";English;12;38;12;23
+1999;single-round;3;Spain;Lydia;"""No quiero escuchar""";Spanish;23;1;12;23
+1999;single-round;4;Croatia;Doris Dragovi?;"""Marija Magdalena""";Croatian;4;118;12;23
+1999;single-round;5;United Kingdom;Precious;"""Say It Again""";English;12;38;12;23
+1999;single-round;6;Slovenia;Darja Švajger;"""For a Thousand Years""";English;11;50;12;23
+1999;single-round;7;Turkey;Tu?ba Önal & Grup Mistik;"""Dön Art?k""";Turkish;16;21;12;23
+1999;single-round;8;Norway;Stig Van Eijk;"""Living My Life Without You""";English;14;35;12;23
+1999;single-round;9;Denmark;Trine Jepsen & Michael Teschl;"""This Time I Mean It""";English;8;71;12;23
+1999;single-round;10;France;Nayah;"""Je veux donner ma voix""";French;19;14;12;23
+1999;single-round;11;Netherlands;Marlayne;"""One Good Reason""";English;8;71;12;23
+1999;single-round;12;Poland;Mietek Szcze?niak;"""Przytul mnie mocno""";Polish;18;17;12;23
+1999;single-round;13;Iceland;Selma;"""All Out of Luck""";English;2;146;12;23
+1999;single-round;14;Cyprus;Marlain;"""Tha'nai Erotas"" (??'??? ??????)";Greek;22;2;12;23
+1999;single-round;15;Sweden;Charlotte Nilsson;"""Take Me to Your Heaven""";English;1;163;12;23
+1999;single-round;16;Portugal;Rui Bandeira;"""Como tudo começou""";Portuguese;21;12;12;23
+1999;single-round;17;Ireland;The Mullans;"""When You Need Me""";English;17;18;12;23
+1999;single-round;18;Austria;Bobbie Singer;"""Reflection""";English;10;65;12;23
+1999;single-round;19;Israel;Eden;"""Yom Huledet (Happy Birthday)"" (??? ?????)";English, Hebrew;5;93;12;23
+1999;single-round;20;Malta;Times Three;"""Believe 'n Peace""";English;15;32;12;23
+1999;single-round;21;Germany;Sürpriz;"""Reise nach Jerusalem – Kudüs'e seyahat""";German, Turkish;3;140;12;23
+1999;single-round;22;Bosnia and Herzegovina;Dino & Béatrice;"""Putnici""";Bosnian, French;7;86;12;23
+1999;single-round;23;Estonia;Evelin Samuel & Camille;"""Diamond of Night""";English;6;90;12;23

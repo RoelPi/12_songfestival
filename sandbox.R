@@ -12,9 +12,10 @@ d <- d[,.(order,country,artist,title,language,position,score,maxpoints,voters,
           participants = length(order),
           rOrder = order/length(order),
           rPosition=position/length(position),
-          rScore=score/(maxpoints*(voters-1))),
+          rScore=score/(maxpoints*(voters-1)),
+          mScore=score/(maxpoints*(voters-1))-mean(score/(maxpoints*(voters-1)))),
        by=.(year,type)]
-d <- d[,rLogScore:=log((score+1))]
+d <- d[,rLogScore:=log((rScore+1))]
 
 ######################################
 ### Ranking ##########################
@@ -121,5 +122,29 @@ s <- ggplot(g,aes(x=paste(year,type),y=rico)) +
     ylab("Slope")
 
 print(s)
-# Link between # participants and recency effect?
+####################################################
+# Link between # participants and recency effect? ##
+####################################################
+
 summary(lm(g$rico~g$contestants))
+
+####################################################
+# Bootstrapped hypothesis test #####################
+####################################################
+
+bStrapMeanDiff <- function(d1,d2) {
+    d1s <- sample(d1,replace=T)
+    d2s <- sample(d2,replace=T)
+    dMeanDiff <- mean(d1s) - mean(d2s)
+}
+
+# General
+d <- d[order(rOrder)]
+dFirstHalf <- d[1:floor(nrow(d)/2)]$rScore
+dSecondHalf <- d[(floor(nrow(d))/2+1):nrow(d)]$rScore
+
+dMeanDiffs <- replicate(1000,bStrapMeanDiff(dSecondHalf,dFirstHalf))
+# hist(dMeanDiffs)
+dq <- quantile(dMeanDiffs,c(0.025,0.975))
+print(dq)
+# qnorm(c(0.025,0.975),mean=mean(dMeanDiffs),sd=sd(dMeanDiffs))
